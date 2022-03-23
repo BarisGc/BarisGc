@@ -40,23 +40,23 @@
   <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
   <br>
   <p align="center">
-    <code><img title="C" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/c.svg"></code>
-    <code><img title="Python" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/python-original.svg"></code>
-    <code><img title="Javascript" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/javascript.svg"></code>
-    <code><img title="Problem Solving" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/problemSolving.png"></code>
-    <code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/html5.svg"></code>
+    <code><img title="HTML" height="25" src="https://github.com/BarisGc/Images/blob/main/html-1.svg"></code>
+    <code><img title="CSS" height="25" src="https://github.com/BarisGc/Images/blob/main/css-3.svg"></code>
+    <code><img title="Bootstrap" height="25" src="https://github.com/BarisGc/Images/blob/main/bootstrap-5-1.svg"></code>
+    <code><img title="Javascript" height="25" src="https://github.com/BarisGc/Images/blob/main/logo-javascript.svg"></code>
+    <code><img title="React" height="25" src="https://github.com/BarisGc/Images/blob/main/react-1.svg"></code>
     <code><img title="CSS" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/css.svg"></code>
     <code><img title="React" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/react-original.svg"></code>
-    <code><img title="Git" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/git-original.svg"></code>
-    <code><img title="Visual Studio Code" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/vscode.png"></code>
-    <code><img title="Microsoft Visual Studio" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/visualstudio.png"></code>
-    <code><img title="JQuery" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/jquery-original.svg"></code>
-    <code><img title="Java" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/java-original.svg"></code>
-    <code><img title="JSON" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/json.svg"></code>
-    <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/github.svg"></code>
-    <code><img title="MySQL" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/mysql.svg"></code>
-    <code><img title="npm" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/npm.svg"></code>
-    <code><img title="PHP" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/php.svg"></code>
+    <code><img title="Redux" height="25" src="https://github.com/BarisGc/Images/blob/main/redux.svg"></code>
+    <code><img title="Node.js" height="25" src="https://github.com/BarisGc/Images/blob/main/nodejs-1.svg"></code>
+    <code><img title="Express.js" height="25" src="https://github.com/BarisGc/Images/blob/main/express-109.svg"></code>
+    <code><img title="EJS" height="25" src="https://github.com/BarisGc/Images/blob/main/ejs.png"></code>
+    <code><img title="MongoDB" height="25" src="https://github.com/BarisGc/Images/blob/main/mongodb-icon-1.svg"></code>
+    <code><img title="Mongoose" height="25" src="https://github.com/BarisGc/Images/blob/main/mongoose.jpeg"></code>
+    <code><img title="Redis" height="25" src="https://github.com/BarisGc/Images/blob/main/redis.svg"></code>
+    <code><img title="PostgreSQL" height="25" src="https://github.com/BarisGc/Images/blob/main/postgresql.svg"></code>
+    <code><img title="Postman" height="25" src="https://github.com/BarisGc/Images/blob/main/postman.svg"></code>
+    <code><img title="Docker" height="25" src="https://github.com/BarisGc/Images/blob/main/docker.svg"></code>
     <code><img title="Flask" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/flask.png"></code>
   </p>
   <hr>
