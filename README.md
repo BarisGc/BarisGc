@@ -55,8 +55,6 @@
     <code><img title="Bootstrap" height="25" src="https://github.com/BarisGc/Images/blob/main/bootstrap-5-1.svg"></code>
     <code><img title="Javascript" height="25" src="https://github.com/BarisGc/Images/blob/main/logo-javascript.svg"></code>
     <code><img title="React" height="25" src="https://github.com/BarisGc/Images/blob/main/react-1.svg"></code>
-    <code><img title="CSS" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/css.svg"></code>
-    <code><img title="React" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/react-original.svg"></code>
     <code><img title="Redux" height="25" src="https://github.com/BarisGc/Images/blob/main/redux.svg"></code>
     <code><img title="Node.js" height="25" src="https://github.com/BarisGc/Images/blob/main/nodejs-1.svg"></code>
     <code><img title="Express.js" height="25" src="https://github.com/BarisGc/Images/blob/main/express-109.svg"></code>
@@ -67,7 +65,10 @@
     <code><img title="PostgreSQL" height="25" src="https://github.com/BarisGc/Images/blob/main/postgresql.svg"></code>
     <code><img title="Postman" height="25" src="https://github.com/BarisGc/Images/blob/main/postman.svg"></code>
     <code><img title="Docker" height="25" src="https://github.com/BarisGc/Images/blob/main/docker.svg"></code>
-    <code><img title="Flask" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/flask.png"></code>
+    <code><img title="Apollo GrapQL" height="25" src="https://github.com/BarisGc/Images/blob/main/apollo-graphql-1.svg"></code>
+  <code><img title="Heroku" height="25" src="https://github.com/BarisGc/Images/blob/main/heroku-4.svg"></code>
+  <code><img title="Netlify" height="25" src="https://github.com/BarisGc/Images/blob/main/netlify.svg"></code>
+  <code><img title="Flask" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/flask.png"></code>
   </p>
   <hr>
 
