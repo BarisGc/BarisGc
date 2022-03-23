@@ -102,12 +102,10 @@
   </div>
   <br><br><br><br><br><br>
   <h4 align="center">
-    <a href="https://github.com/ramazansancar?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+    <a href="https://github.com/BarisGc?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
   </h4>
-  
 
   <!--
-  **ramazansancar/ramazansancar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
   Here are some ideas to get you started:
 
