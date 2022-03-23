@@ -18,14 +18,15 @@
   </h5>
   <br>
   <p align="center">
-    Hi, I'm Barış Devrim, Industrial Engineer(+MBA;Non-Thesis) & Software Developer from Turkey
+    Hi, I'm Barış Devrim, Industrial Engineer(+ MBA; Non-Thesis) & Software Developer from Turkey
     <br>
     <br>
-    🎓 I graduated from Yeditepe University(Bsc.) & Isik University(Msc.)
+    🎓 I graduated from Yeditepe University(BSc.) & Isik University(MBA)
     <br>
     💻 I love writing code and learn anythings about it
     <br>
-    📚 I take https://roadmap.sh/ as a reference in picking up the path and take a guide for my learnings, and also now, I’m currently progressing in 
+  
+    📚 I take <a href="https://roadmap.sh/" title="roadmap.sh">as a reference in picking up the path and taking a guide for my learnings, and also now, I’m currently progressing in </a> 
   <code>
     Paths:
     <br>
