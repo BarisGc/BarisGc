@@ -30,10 +30,15 @@
     📚 I’m currently progressing in
   <code>
     Paths:
-    <a href="https://app.patika.dev/paths/orta-seviye-frontend-web-development-patikasi" title="LinkedIn Profile">orta-seviye-frontend-web-development-patikasi</a>&
-    <a href="https://app.patika.dev/paths/nodejs-ile-backend-patikasi" title="LinkedIn Profile">nodejs-ile-backend-patikasi</a>&
+    <br>
+    <a href="https://app.patika.dev/paths/orta-seviye-frontend-web-development-patikasi" title="LinkedIn Profile">orta-seviye-frontend-web-development-patikasi</a>
+    <br>
+    <a href="https://app.patika.dev/paths/nodejs-ile-backend-patikasi" title="LinkedIn Profile">nodejs-ile-backend-patikasi</a>
+    <br>
     Single Course:
+    <br>
     <a href="https://app.patika.dev/courses/csharp-101" title="LinkedIn Profile">C# Course</a>
+    <br>
     <a href="https://app.patika.dev/courses/net-core" title="LinkedIn Profile">.Net Core Course</a>&
   </code>
     <br>
