@@ -21,13 +21,11 @@
     Hi, I'm Barış Devrim, Industrial Engineer(+MBA;Non-Thesis) & Software Developer from Turkey
     <br>
     <br>
-    🔬 I'm currently studying in Kırklareli University Machine Technicer
-    <br>
     🎓 I graduated from Yeditepe University(Bsc.) & Isik University(Msc.)
     <br>
     💻 I love writing code and learn anythings about it
     <br>
-    📚 I’m currently progressing in
+    📚 I take https://roadmap.sh/ as a reference in picking up the path and take a guide for my learnings, and also now, I’m currently progressing in 
   <code>
     Paths:
     <br>
