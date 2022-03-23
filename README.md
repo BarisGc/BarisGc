@@ -18,7 +18,6 @@
   <p align="center">
     👋 Hi, I'm Barış Devrim, Industrial Engineer (+ MBA; Non-Thesis) & Software Developer from Turkey
     <br>
-    <br>
     🎓 I graduated from Yeditepe University (BSc.) & Isik University (MBA)
     <br>
     👀 I am interested in and 💻 working to be a "MERN Stack" or "React & .NET Stack" developer 
