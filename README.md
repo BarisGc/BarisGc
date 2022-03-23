@@ -13,33 +13,37 @@
 
   <h5 align="center">
     <code>
-      <a href="https://www.linkedin.com/in/baris-devrim/" title="LinkedIn Profile"><img width="22" src="https://github.com/BarisGc/Images/blob/main/linkedin-svgrepo-com.svg"> LinkedIn</a></code>
-    <code><a href="https://www.hackerrank.com/BarisGc" title="HackerRank Profile"><img width="22" src="https://github.com/BarisGc/Images/blob/main/240px-HackerRank_Icon-1000px.png"> HackerRank</a></code>
+      <a href="https://www.linkedin.com/in/baris-devrim/" title="LinkedIn Profile"><img width="22" src="https://github.com/BarisGc/Images/blob/main/linkedin-svgrepo-com.svg"> LinkedIn</a>
+  </code>
+    <code>
+      <a href="https://www.hackerrank.com/BarisGc" title="HackerRank Profile"><img width="22" src="https://github.com/BarisGc/Images/blob/main/240px-HackerRank_Icon-1000px.png"> HackerRank</a>
+  </code>
   </h5>
   <br>
   <p align="center">
-    Hi, I'm Barış Devrim, Industrial Engineer(+ MBA; Non-Thesis) & Software Developer from Turkey
+    Hi, I'm Barış Devrim, Industrial Engineer (+ MBA; Non-Thesis) & Software Developer from Turkey
     <br>
     <br>
-    🎓 I graduated from Yeditepe University(BSc.) & Isik University(MBA)
+    🎓 I graduated from Yeditepe University (BSc.) & Isik University (MBA)
     <br>
-    💻 I love writing code and learn anythings about it
+    💻 I am working to be a "MERN Stack" or "React & .NET Stack" developer 
     <br>
-  
-    📚 I take <a href="https://roadmap.sh/" title="roadmap.sh">as a reference in picking up the path and taking a guide for my learnings, and also now, I’m currently progressing in </a> 
-  
+   <code>
+    📚 I take <a href="https://roadmap.sh/" title="roadmap.sh">roadmap.sh</a>  </code>as a reference in picking up the path and taking a guide for my learnings, and also now, I’m currently progressing in
     Paths:
     <br>
+    <code>
     <a href="https://app.patika.dev/paths/orta-seviye-frontend-web-development-patikasi" title="LinkedIn Profile">orta-seviye-frontend-web-development-patikasi</a>
-    <br>
+    </code>
+    <br><code>
     <a href="https://app.patika.dev/paths/nodejs-ile-backend-patikasi" title="LinkedIn Profile">nodejs-ile-backend-patikasi</a>
-    <br>
+    </code><br>
     Single Course:
-    <br>
+    <br><code>
     <a href="https://app.patika.dev/courses/csharp-101" title="LinkedIn Profile">C# Course</a>
-    <br>
-    <a href="https://app.patika.dev/courses/net-core" title="LinkedIn Profile">.Net Core Course</a>&
-  
+    </code><br><code>
+    <a href="https://app.patika.dev/courses/net-core" title="LinkedIn Profile">.Net Core Course</a>
+  </code>
     <br>
     💬 Ask me anything about from <a href="https://github.com/ramazansancar/ramazansancar/issues" title="Issues">Here</a>
     <br>
