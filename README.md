@@ -14,22 +14,25 @@
   <h5 align="center">
     <code>
       <a href="https://www.linkedin.com/in/baris-devrim/" title="LinkedIn Profile"><img width="22" src="https://github.com/BarisGc/Images/blob/main/linkedin-svgrepo-com.svg"> LinkedIn</a></code>
-    <code><a href="https://www.hackerrank.com/ramazansancar" title="HackerRank Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/hackerrank.png"> HackerRank</a></code>
-    <code><a href="https://stackoverflow.com/users/15030183/ramazan-sancar" title="Stack Overflow Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/stackoverflow.svg"> Stack Overflow</a></code>
-    <code><a href="https://www.instagram.com/sancaramazan/" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/instagram.svg"> Instagram</a></code>
+    <code><a href="https://www.hackerrank.com/BarisGc" title="HackerRank Profile"><img width="22" src="https://github.com/BarisGc/Images/blob/main/240px-HackerRank_Icon-1000px.png"> HackerRank</a></code>
   </h5>
   <br>
   <p align="center">
-    Hi, I'm Ramazan Sancar, Machine Technicer & Software Developer from Turkey
+    Hi, I'm Barış Devrim, Industrial Engineer(+MBA;Non-Thesis) & Software Developer from Turkey
     <br>
     <br>
     🔬 I'm currently studying in Kırklareli University Machine Technicer
     <br>
-    🎓 I graduated from Manisa Mehmet Akif Ersoy High School
+    🎓 I graduated from Yeditepe University(Bsc.) & Isik University(Msc.)
     <br>
     💻 I love writing code and learn anythings about it
     <br>
-    📚 I’m currently learning how to build Education Website with Nodejs and Metorjs
+    📚 I’m currently progressing in
+  <code>
+      <a href="https://app.patika.dev/paths/orta-seviye-frontend-web-development-patikasi" title="LinkedIn Profile">orta-seviye-frontend-web-development-patikasi</a>
+    <a href="https://app.patika.dev/paths/nodejs-ile-backend-patikasi" title="LinkedIn Profile">nodejs-ile-backend-patikasi</a>
+    <a href="https://app.patika.dev/paths/orta-seviye-net-core-patikasi" title="LinkedIn Profile">orta-seviye-net-core-patikasi</a>
+  </code>
     <br>
     💬 Ask me anything about from <a href="https://github.com/ramazansancar/ramazansancar/issues" title="Issues">Here</a>
     <br>
