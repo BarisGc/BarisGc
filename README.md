@@ -3,17 +3,17 @@
 - 🌱 I’m currently learning Bootstrap & React.js(React-Redux etc.) & Node.js(Express.js etc.) & .NET Core
 - 📫 How to reach me: baris.devrim1@gmail.com
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ramazansancar.ramazansancar">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BarisGc.visitor-badge">
 
   <h1 align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;He+is+Ramazan+Sancar....;Nice+to+meet+you!&center=true&size=30">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;This+is+Barış+Devrim....;Nice+to+meet+you!&center=true&size=30">
     </a>
   </h1>
 
   <h5 align="center">
     <code>
-      <a href="https://www.linkedin.com/in/ramazansancar/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/linkedin.svg"> LinkedIn</a></code>
+      <a href="https://www.linkedin.com/in/baris-devrim/" title="LinkedIn Profile"><img width="22" src="https://github.com/BarisGc/Images/blob/main/icons8-linkedin.svg"> LinkedIn</a></code>
     <code><a href="https://www.hackerrank.com/ramazansancar" title="HackerRank Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/hackerrank.png"> HackerRank</a></code>
     <code><a href="https://stackoverflow.com/users/15030183/ramazan-sancar" title="Stack Overflow Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/stackoverflow.svg"> Stack Overflow</a></code>
     <code><a href="https://www.instagram.com/sancaramazan/" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/instagram.svg"> Instagram</a></code>
