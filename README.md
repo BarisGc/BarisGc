@@ -27,7 +27,7 @@
     <br>
   
     📚 I take <a href="https://roadmap.sh/" title="roadmap.sh">as a reference in picking up the path and taking a guide for my learnings, and also now, I’m currently progressing in </a> 
-  <code>
+  
     Paths:
     <br>
     <a href="https://app.patika.dev/paths/orta-seviye-frontend-web-development-patikasi" title="LinkedIn Profile">orta-seviye-frontend-web-development-patikasi</a>
@@ -39,7 +39,7 @@
     <a href="https://app.patika.dev/courses/csharp-101" title="LinkedIn Profile">C# Course</a>
     <br>
     <a href="https://app.patika.dev/courses/net-core" title="LinkedIn Profile">.Net Core Course</a>&
-  </code>
+  
     <br>
     💬 Ask me anything about from <a href="https://github.com/ramazansancar/ramazansancar/issues" title="Issues">Here</a>
     <br>
