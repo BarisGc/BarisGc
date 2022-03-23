@@ -29,9 +29,12 @@
     <br>
     📚 I’m currently progressing in
   <code>
-      <a href="https://app.patika.dev/paths/orta-seviye-frontend-web-development-patikasi" title="LinkedIn Profile">orta-seviye-frontend-web-development-patikasi</a>
-    <a href="https://app.patika.dev/paths/nodejs-ile-backend-patikasi" title="LinkedIn Profile">nodejs-ile-backend-patikasi</a>
-    <a href="https://app.patika.dev/paths/orta-seviye-net-core-patikasi" title="LinkedIn Profile">orta-seviye-net-core-patikasi</a>
+    Paths:
+    <a href="https://app.patika.dev/paths/orta-seviye-frontend-web-development-patikasi" title="LinkedIn Profile">orta-seviye-frontend-web-development-patikasi</a>&
+    <a href="https://app.patika.dev/paths/nodejs-ile-backend-patikasi" title="LinkedIn Profile">nodejs-ile-backend-patikasi</a>&
+    Single Course:
+    <a href="https://app.patika.dev/courses/csharp-101" title="LinkedIn Profile">C# Course</a>
+    <a href="https://app.patika.dev/courses/net-core" title="LinkedIn Profile">.Net Core Course</a>&
   </code>
     <br>
     💬 Ask me anything about from <a href="https://github.com/ramazansancar/ramazansancar/issues" title="Issues">Here</a>
