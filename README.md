@@ -22,7 +22,7 @@
     <br>
     👀 I am interested in and 💻 working to be a "MERN Stack" or "React & .NET Stack" developer 
     <br>
-  🌱 I’m currently learning Bootstrap & React.js(React-Redux etc.) & Node.js(Express.js etc.) & .NET Core
+  🌱 I’m currently learning Bootstrap & React.js (React-Redux etc.) & Node.js (Express.js etc.) & .NET Core
     <br>
   <code>
     📚 I take <a href="https://roadmap.sh/" title="roadmap.sh">roadmap.sh</a>  </code>as a reference in picking up the path and taking a guide for my learnings, and also now, I’m currently progressing in
