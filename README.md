@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @BarisGc
-- 👀 I’m interested in Front-End & Full-Stack Development
-- 🌱 I’m currently learning Bootstrap & React.js(React-Redux etc.) & Node.js(Express.js etc.) & .NET Core
-- 📫 How to reach me: baris.devrim1@gmail.com
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BarisGc.visitor-badge">
 
   <h1 align="center">
@@ -21,14 +16,16 @@
   </h5>
   <br>
   <p align="center">
-    Hi, I'm Barış Devrim, Industrial Engineer (+ MBA; Non-Thesis) & Software Developer from Turkey
+    👋 Hi, I'm Barış Devrim, Industrial Engineer (+ MBA; Non-Thesis) & Software Developer from Turkey
     <br>
     <br>
     🎓 I graduated from Yeditepe University (BSc.) & Isik University (MBA)
     <br>
-    💻 I am working to be a "MERN Stack" or "React & .NET Stack" developer 
+    👀 I am interested in and 💻 working to be a "MERN Stack" or "React & .NET Stack" developer 
     <br>
-   <code>
+  🌱 I’m currently learning Bootstrap & React.js(React-Redux etc.) & Node.js(Express.js etc.) & .NET Core
+    <br>
+  <code>
     📚 I take <a href="https://roadmap.sh/" title="roadmap.sh">roadmap.sh</a>  </code>as a reference in picking up the path and taking a guide for my learnings, and also now, I’m currently progressing in
     Paths:
     <br>
