@@ -29,21 +29,21 @@
     Paths:
     <br>
     <code>
-    <a href="https://app.patika.dev/paths/orta-seviye-frontend-web-development-patikasi" title="LinkedIn Profile">orta-seviye-frontend-web-development-patikasi</a>
+    <a href="https://app.patika.dev/paths/orta-seviye-frontend-web-development-patikasi" title="orta-seviye-frontend-web-development-patikasi">orta-seviye-frontend-web-development-patikasi</a>
     </code>
     <br><code>
-    <a href="https://app.patika.dev/paths/nodejs-ile-backend-patikasi" title="LinkedIn Profile">nodejs-ile-backend-patikasi</a>
+    <a href="https://app.patika.dev/paths/nodejs-ile-backend-patikasi" title="nodejs-ile-backend-patikasi">nodejs-ile-backend-patikasi</a>
     </code><br>
     Single Course:
     <br><code>
-    <a href="https://app.patika.dev/courses/csharp-101" title="LinkedIn Profile">C# Course</a>
+    <a href="https://app.patika.dev/courses/csharp-101" title="C# Course">C# Course</a>
     </code><br><code>
-    <a href="https://app.patika.dev/courses/net-core" title="LinkedIn Profile">.Net Core Course</a>
+    <a href="https://app.patika.dev/courses/net-core" title=".Net Core Course">.Net Core Course</a>
   </code>
     <br>
-    💬 Ask me anything about from <a href="https://github.com/ramazansancar/ramazansancar/issues" title="Issues">Here</a>
+    💬 Ask me anything about from <a href="https://github.com/BarisGc/BarisGc/issues" title="Issues">Here</a>
     <br>
-    📫 How to reach me: <a href="mailto: ramazan@ramazansancar.com.tr">ramazan@ramazansancar.com.tr</a>
+    📫 How to reach me: <a href="mailto: baris.devrim1@gmail.com">baris.devrim1@gmail.com</a>
   </p>
 
   <hr>
