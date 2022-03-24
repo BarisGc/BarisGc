@@ -29,16 +29,16 @@
     Paths:
     <br>
     <code>
-    <a href="https://app.patika.dev/paths/orta-seviye-frontend-web-development-patikasi" title="orta-seviye-frontend-web-development-patikasi">orta-seviye-frontend-web-development-patikasi</a>
+    <a href="https://app.patika.dev/paths/orta-seviye-frontend-web-development-patikasi" title="orta-seviye-frontend-web-development-patikasi">orta-seviye-frontend-web-development-patikasi (Patika.dev)</a>
     </code>
     <br><code>
-    <a href="https://app.patika.dev/paths/nodejs-ile-backend-patikasi" title="nodejs-ile-backend-patikasi">nodejs-ile-backend-patikasi</a>
+    <a href="https://app.patika.dev/paths/nodejs-ile-backend-patikasi" title="nodejs-ile-backend-patikasi">nodejs-ile-backend-patikasi (Patika.dev)</a>
     </code><br>
     Single Course:
     <br><code>
-    <a href="https://app.patika.dev/courses/csharp-101" title="C# Course">C# Course</a>
+    <a href="https://app.patika.dev/courses/csharp-101" title="C# Course">C# Course (Patika.dev)</a>
     </code><br><code>
-    <a href="https://app.patika.dev/courses/net-core" title=".Net Core Course">.Net Core Course</a>
+    <a href="https://app.patika.dev/courses/net-core" title=".Net Core Course">.Net Core Course (Patika.dev)</a>
   </code>
     <br>
     💬 Ask me anything about from <a href="https://github.com/BarisGc/BarisGc/issues" title="Issues">Here</a>
