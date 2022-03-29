@@ -54,11 +54,13 @@
     <code><img title="CSS" height="25" src="https://github.com/BarisGc/Images/blob/main/css-3.svg"></code>
     <code><img title="Bootstrap" height="25" src="https://github.com/BarisGc/Images/blob/main/bootstrap-5-1.svg"></code>
     <code><img title="Javascript" height="25" src="https://github.com/BarisGc/Images/blob/main/logo-javascript.svg"></code>
+  <code><img title="C#" height="25" src="https://github.com/BarisGc/Images/blob/main/c-sharp-svgrepo-com.svg"></code>
     <code><img title="React" height="25" src="https://github.com/BarisGc/Images/blob/main/react-1.svg"></code>
     <code><img title="Redux" height="25" src="https://github.com/BarisGc/Images/blob/main/redux.svg"></code>
     <code><img title="Node.js" height="25" src="https://github.com/BarisGc/Images/blob/main/nodejs-1.svg"></code>
     <code><img title="Express.js" height="25" src="https://github.com/BarisGc/Images/blob/main/express-109.svg"></code>
     <code><img title="EJS" height="25" src="https://github.com/BarisGc/Images/blob/main/ejs.png"></code>
+  <code><img title=".Net Core" height="25" src="https://github.com/BarisGc/Images/blob/main/dotnet-svgrepo-com.svg"></code>
     <code><img title="MongoDB" height="25" src="https://github.com/BarisGc/Images/blob/main/mongodb-icon-1.svg"></code>
     <code><img title="Mongoose" height="25" src="https://github.com/BarisGc/Images/blob/main/mongoose.jpeg"></code>
     <code><img title="Redis" height="25" src="https://github.com/BarisGc/Images/blob/main/redis.svg"></code>
