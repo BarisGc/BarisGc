@@ -47,7 +47,7 @@
   </p>
 
   <hr>
-  <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+  <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
   <br>
   <p align="center">
     <code><img title="HTML" height="25" src="https://github.com/BarisGc/Images/blob/main/html-1.svg"></code>
