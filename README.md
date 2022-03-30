@@ -28,6 +28,24 @@
     📚 I take <a href="https://roadmap.sh/" title="roadmap.sh">roadmap.sh</a>  </code>as a reference in picking up the path and taking a guide for my learnings, and also now, I’m currently progressing in
     Paths:
     <br>
+  Certificates:
+  <br>
+  <code>
+    <a href="https://drive.google.com/file/d/1sLa90Eutc0b_Tfr9gXc44E9xNvseI3xO/view?usp=sharing" title="Front-End Developer Certificate By Ismek">Front-End Developer Certificate By Ismek</a>
+    </code>
+  <br>
+  <code>
+    <a href="https://drive.google.com/file/d/17mny1ttUJfbhjmq2ZAcyT0LwSVX9ryGE/view?usp=sharing" title="Basic Web Design & Photoshop Certificate">Basic Web Design & Photoshop Certificate</a>
+    </code>
+  <br>
+  <code>
+    <a href="https://app.patika.dev/paths/orta-seviye-frontend-web-development-patikasi" title="orta-seviye-frontend-web-development-patikasi">orta-seviye-frontend-web-development-patikasi (patika.dev)</a>
+    </code>
+  <br>
+  <code>
+    <a href="https://app.patika.dev/paths/orta-seviye-frontend-web-development-patikasi" title="orta-seviye-frontend-web-development-patikasi">orta-seviye-frontend-web-development-patikasi (patika.dev)</a>
+  </code>
+  <br>
     <code>
     <a href="https://app.patika.dev/paths/orta-seviye-frontend-web-development-patikasi" title="orta-seviye-frontend-web-development-patikasi">orta-seviye-frontend-web-development-patikasi (patika.dev)</a>
     </code>
