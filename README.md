@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BarisGc.visitor-badge">
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BarisGc.visitor-badge"> -->
 
   <h1 align="center">
     <a href="https://git.io/typing-svg">
@@ -50,7 +50,7 @@
     </code>
     <br><code>
     <a href="https://app.patika.dev/paths/nodejs-ile-backend-patikasi" title="nodejs-ile-backend-patikasi">nodejs-ile-backend-patikasi (patika.dev)</a>
-    </code><br>
+    </code>
     <br>Single Course:</b>
     <br><code>
     <a href="https://app.patika.dev/courses/csharp-101" title="C# Course">C# Course (patika.dev)</a>
