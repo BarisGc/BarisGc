@@ -24,7 +24,7 @@
     <br>
   🌱 I’m currently learning Bootstrap & React.js (React-Redux etc.) & Node.js (Express.js etc.) & .NET Core
     <br>
-  Certificates:
+  ## Certificates:
   <br>
   <code>
     <a href="https://drive.google.com/file/d/1sLa90Eutc0b_Tfr9gXc44E9xNvseI3xO/view?usp=sharing" title="Front-End Developer Certificate By Ismek">Front-End Developer Certificate By Ismek</a>
@@ -41,9 +41,9 @@
   <code>
     <a href="https://app.patika.dev/certificates/fxLmc8P" title="Bootcamp Accelerator Program - Javascript Certificate By patika.dev">Bootcamp Accelerator Program - Javascript Certificate By patika.dev</a>
   </code>
-  <br><br>
+  <br>
      📚 I take <a href="https://roadmap.sh/" title="roadmap.sh">roadmap.sh</a>  </code>as a reference in picking up the path and taking a guide for my learnings, and also now, I’m currently progressing in
-    Paths:
+    ## Paths:
     <code>
     <a href="https://app.patika.dev/paths/orta-seviye-frontend-web-development-patikasi" title="orta-seviye-frontend-web-development-patikasi">orta-seviye-frontend-web-development-patikasi (patika.dev)</a>
     </code>
