@@ -24,8 +24,6 @@
     <br>
   🌱 I’m currently learning Bootstrap & React.js (React-Redux etc.) & Node.js (Express.js etc.) & .NET Core
     <br>
-  <code>
-    <br>
   Certificates:
   <br>
   <code>
