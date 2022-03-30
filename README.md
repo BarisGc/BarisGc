@@ -25,8 +25,6 @@
   🌱 I’m currently learning Bootstrap & React.js (React-Redux etc.) & Node.js (Express.js etc.) & .NET Core
     <br>
   <code>
-    📚 I take <a href="https://roadmap.sh/" title="roadmap.sh">roadmap.sh</a>  </code>as a reference in picking up the path and taking a guide for my learnings, and also now, I’m currently progressing in
-    Paths:
     <br>
   Certificates:
   <br>
@@ -39,13 +37,15 @@
     </code>
   <br>
   <code>
-    <a href="https://app.patika.dev/paths/orta-seviye-frontend-web-development-patikasi" title="orta-seviye-frontend-web-development-patikasi">orta-seviye-frontend-web-development-patikasi (patika.dev)</a>
+    <a href="https://app.patika.dev/certificates/fxLH9mb" title="Starter Level Frontend Web Development Path Certificate By patika.dev">Starter Level Frontend Web Development Path Certificate By patika.dev</a>
     </code>
   <br>
   <code>
-    <a href="https://app.patika.dev/paths/orta-seviye-frontend-web-development-patikasi" title="orta-seviye-frontend-web-development-patikasi">orta-seviye-frontend-web-development-patikasi (patika.dev)</a>
+    <a href="https://app.patika.dev/certificates/fxLmc8P" title="Bootcamp Accelerator Program - Javascript Certificate By patika.dev">Bootcamp Accelerator Program - Javascript Certificate By patika.dev</a>
   </code>
   <br>
+     📚 I take <a href="https://roadmap.sh/" title="roadmap.sh">roadmap.sh</a>  </code>as a reference in picking up the path and taking a guide for my learnings, and also now, I’m currently progressing in
+    Paths:
     <code>
     <a href="https://app.patika.dev/paths/orta-seviye-frontend-web-development-patikasi" title="orta-seviye-frontend-web-development-patikasi">orta-seviye-frontend-web-development-patikasi (patika.dev)</a>
     </code>
