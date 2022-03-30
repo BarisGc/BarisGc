@@ -24,7 +24,7 @@
     <br>
   🌱 I’m currently learning Bootstrap & React.js (React-Redux etc.) & Node.js (Express.js etc.) & .NET Core
     <br>
-  ## Certificates:
+ <b>Certificates:</b>
   <br>
   <code>
     <a href="https://drive.google.com/file/d/1sLa90Eutc0b_Tfr9gXc44E9xNvseI3xO/view?usp=sharing" title="Front-End Developer Certificate By Ismek">Front-End Developer Certificate By Ismek</a>
