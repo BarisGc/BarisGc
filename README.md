@@ -31,7 +31,7 @@
     </code>
   <br>
   <code>
-    <a href="https://drive.google.com/file/d/17mny1ttUJfbhjmq2ZAcyT0LwSVX9ryGE/view?usp=sharing" title="Basic Web Design & Photoshop Certificate">Basic Web Design & Photoshop Certificate</a>
+    <a href="https://drive.google.com/file/d/17mny1ttUJfbhjmq2ZAcyT0LwSVX9ryGE/view?usp=sharing" title="Basic Web Design & Photoshop Certificate By Ismek">Basic Web Design & Photoshop Certificate By Ismek</a>
     </code>
   <br>
   <code>
