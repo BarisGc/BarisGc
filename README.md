@@ -80,7 +80,7 @@
     <code><img title="Redis" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/redis.svg"></code>
     <code><img title="PostgreSQL" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/postgresql.svg"></code>
     <code><img title="Postman" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/postman.svg"></code>
-    <code><img title="Docker" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/docker.svg"></code>
+    <img title="Docker" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/docker.svg">
     <code><img title="Apollo GrapQL" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/apollo-graphql-1.svg"></code>
   <code><img title="Heroku" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/heroku-4.svg"></code>
   <code><img title="Netlify" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/netlify.svg"></code>
