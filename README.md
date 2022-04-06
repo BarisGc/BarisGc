@@ -8,10 +8,10 @@
 
   <h5 align="center">
     <code>
-      <a href="https://www.linkedin.com/in/baris-devrim/" title="LinkedIn Profile"><img width="22" src="https://github.com/BarisGc/Images/blob/main/linkedin-svgrepo-com.svg"> LinkedIn</a>
+      <a href="https://www.linkedin.com/in/baris-devrim/" title="LinkedIn Profile"><img width="22" src="https://github.com/BarisGc/Images/blob/main/svg/linkedin-svgrepo-com.svg"> LinkedIn</a>
   </code>
     <code>
-      <a href="https://www.hackerrank.com/BarisGc" title="HackerRank Profile"><img width="22" src="https://github.com/BarisGc/Images/blob/main/240px-HackerRank_Icon-1000px.png"> HackerRank</a>
+      <a href="https://www.hackerrank.com/BarisGc" title="HackerRank Profile"><img width="22" src="https://github.com/BarisGc/Images/blob/main/png/240px-HackerRank_Icon-1000px.png"> HackerRank</a>
   </code>
   </h5>
   <br>
@@ -68,26 +68,26 @@
   <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
   <br>
   <p align="center">
-    <code><img title="HTML" height="25" src="https://github.com/BarisGc/Images/blob/main/html-1.svg"></code>
-    <code><img title="CSS" height="25" src="https://github.com/BarisGc/Images/blob/main/css-3.svg"></code>
-    <code><img title="Bootstrap" height="25" src="https://github.com/BarisGc/Images/blob/main/bootstrap-5-1.svg"></code>
-    <code><img title="Javascript" height="25" src="https://github.com/BarisGc/Images/blob/main/logo-javascript.svg"></code>
-  <code><img title="C#" height="25" src="https://github.com/BarisGc/Images/blob/main/c-sharp-svgrepo-com.svg"></code>
-    <code><img title="React" height="25" src="https://github.com/BarisGc/Images/blob/main/react-1.svg"></code>
-    <code><img title="Redux" height="25" src="https://github.com/BarisGc/Images/blob/main/redux.svg"></code>
-    <code><img title="Node.js" height="25" src="https://github.com/BarisGc/Images/blob/main/nodejs-1.svg"></code>
-    <code><img title="Express.js" height="25" src="https://github.com/BarisGc/Images/blob/main/express-109.svg"></code>
-    <code><img title="EJS" height="25" src="https://github.com/BarisGc/Images/blob/main/ejs.png"></code>
-  <code><img title=".Net Core" height="25" src="https://github.com/BarisGc/Images/blob/main/dotnet-svgrepo-com.svg"></code>
-    <code><img title="MongoDB" height="25" src="https://github.com/BarisGc/Images/blob/main/mongodb-icon-1.svg"></code>
-    <code><img title="Mongoose" height="25" src="https://github.com/BarisGc/Images/blob/main/mongoose.jpeg"></code>
-    <code><img title="Redis" height="25" src="https://github.com/BarisGc/Images/blob/main/redis.svg"></code>
-    <code><img title="PostgreSQL" height="25" src="https://github.com/BarisGc/Images/blob/main/postgresql.svg"></code>
-    <code><img title="Postman" height="25" src="https://github.com/BarisGc/Images/blob/main/postman.svg"></code>
-    <code><img title="Docker" height="25" src="https://github.com/BarisGc/Images/blob/main/docker.svg"></code>
-    <code><img title="Apollo GrapQL" height="25" src="https://github.com/BarisGc/Images/blob/main/apollo-graphql-1.svg"></code>
-  <code><img title="Heroku" height="25" src="https://github.com/BarisGc/Images/blob/main/heroku-4.svg"></code>
-  <code><img title="Netlify" height="25" src="https://github.com/BarisGc/Images/blob/main/netlify.svg"></code>
+    <code><img title="HTML" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/html-1.svg"></code>
+    <code><img title="CSS" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/css-3.svg"></code>
+    <code><img title="Bootstrap" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/bootstrap-5-1.svg"></code>
+    <code><img title="Javascript" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/logo-javascript.svg"></code>
+  <code><img title="C#" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/c-sharp-svgrepo-com.svg"></code>
+    <code><img title="React" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/react-1.svg"></code>
+    <code><img title="Redux" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/redux.svg"></code>
+    <code><img title="Node.js" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/nodejs-1.svg"></code>
+    <code><img title="Express.js" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/express-109.svg"></code>
+    <code><img title="EJS" height="25" src="https://github.com/BarisGc/Images/blob/main/png/ejs.png"></code>
+  <code><img title=".Net Core" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/dotnet-svgrepo-com.svg"></code>
+    <code><img title="MongoDB" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/mongodb-icon-1.svg"></code>
+    <code><img title="Mongoose" height="25" src="https://github.com/BarisGc/Images/blob/main/jpeg/mongoose.jpeg"></code>
+    <code><img title="Redis" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/redis.svg"></code>
+    <code><img title="PostgreSQL" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/postgresql.svg"></code>
+    <code><img title="Postman" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/postman.svg"></code>
+    <code><img title="Docker" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/docker.svg"></code>
+    <code><img title="Apollo GrapQL" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/apollo-graphql-1.svg"></code>
+  <code><img title="Heroku" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/heroku-4.svg"></code>
+  <code><img title="Netlify" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/netlify.svg"></code>
   </p>
   <hr>
 
