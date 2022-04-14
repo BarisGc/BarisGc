@@ -18,7 +18,7 @@
     <br>
     👀 I am interested in and 💻 working to be a "MERN Stack" || Similar Javascript-Based Stacks 
     <br>
-  🌱 I’m currently learning Bootstrap & React.js (React-Redux etc.) & Node.js (Express.js etc.)
+  🌱 I’m currently learning Bootstrap & React.js (React-Redux etc.) & Node.js (Express.js etc.) & DB (MongoDB NoSQL & PostgreSQL SQL)
     <br>
  <b>Certificates:</b>
   <br>
