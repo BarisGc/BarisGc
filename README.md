@@ -43,17 +43,19 @@
     <br>
     <code>
     <a href="https://app.patika.dev/paths/orta-seviye-frontend-web-development-patikasi" title="orta-seviye-frontend-web-development-patikasi">orta-seviye-frontend-web-development-patikasi (patika.dev)</a>
-    </code>
-    <br><code>
-    <a href="https://app.patika.dev/paths/nodejs-ile-backend-patikasi" title="nodejs-ile-backend-patikasi">nodejs-ile-backend-patikasi (patika.dev)</a>
+  <i>planned to be completed between may & june</i>
     </code>
     <br>
-    <b>Single Courses:</b>
-    <br><code>
-    <a href="https://app.patika.dev/courses/csharp-101" title="C# Course">C# Course (patika.dev)</a>
-    </code><br><code>
-    <a href="https://app.patika.dev/courses/net-core" title=".Net Core Course">.Net Core Course (patika.dev)</a>
-  </code>
+    <code>
+    <a href="https://app.patika.dev/paths/nodejs-ile-backend-patikasi" title="nodejs-ile-backend-patikasi">nodejs-ile-backend-patikasi (patika.dev)</a>
+  <i>planned to be completed between may & june</i>
+    </code>
+    <code>
+    <a href="https://app.patika.dev/paths/ileri-seviye-frontend-web-development-patikasi-" title="ileri-seviye-frontend-web-development-patikasi">ileri-seviye-frontend-web-development-patikasi (patika.dev)</a>
+  <i>planned to be completed between june & july</i>
+    </code>
+    <br>
+<!--     <b>Single Courses: this section may be added in the future...</b> --> 
     <br>
     💬 Ask me anything about from <a href="https://github.com/BarisGc/BarisGc/issues" title="Issues">Here</a>
     <br>
