@@ -12,7 +12,7 @@
   </h5>
   <br>
   <p align="center">
-     Hi, I'm Barış Devrim, Industrial Engineer (+ MBA; Non-Thesis) & Software Developer from Turkey
+     :magnet:Hi, I'm Barış Devrim, Industrial Engineer (+ MBA; Non-Thesis) & Software Developer from Turkey
     <br>
     :mag:I graduated from Yeditepe University (BSc.) & Isik University (MBA)
     <br>
