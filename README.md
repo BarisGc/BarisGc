@@ -14,13 +14,13 @@
   <p align="center">
      Hi, I'm Barış Devrim, Industrial Engineer (+ MBA; Non-Thesis) & Software Developer from Turkey
     <br>
-    I graduated from Yeditepe University (BSc.) & Isik University (MBA)
+    :mag:I graduated from Yeditepe University (BSc.) & Isik University (MBA)
     <br>
     👀 I am interested in and 💻 working to be a "MERN Stack" || Similar Javascript-Based Stacks 
     <br>
   🌱 I’m currently learning Bootstrap & React.js (React-Redux etc.) & Node.js (Express.js etc.) & DB (MongoDB NoSQL & PostgreSQL SQL)
     <br>
- <b>Certificates:</b>
+ 	:trophy:<b>Certificates:</b>
   <br>
   <code>
     <a href="https://drive.google.com/file/d/1sLa90Eutc0b_Tfr9gXc44E9xNvseI3xO/view?usp=sharing" title="Front-End Developer Certificate By Ismek">Front-End Developer Certificate By Ismek</a>
@@ -39,7 +39,7 @@
   </code>
   <br>
      📚 I take <a href="https://roadmap.sh/" title="roadmap.sh">roadmap.sh</a>  </code>as a reference in picking up the path and taking a guide for my learnings, and also now, I’m currently progressing in
-    <b>Paths:</b>
+    :chart_with_upwards_trend:<b>Paths:</b>
     <br>
     <code>
     <a href="https://app.patika.dev/paths/orta-seviye-frontend-web-development-patikasi" title="orta-seviye-frontend-web-development-patikasi">orta-seviye-frontend-web-development-patikasi (patika.dev)</a>
