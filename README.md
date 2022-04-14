@@ -16,7 +16,7 @@
     <br>
     🎓 I graduated from Yeditepe University (BSc.) & Isik University (MBA)
     <br>
-    👀 I am interested in and 💻 working to be a "MERN Stack" or "React & .NET Stack" developer 
+    👀 I am interested in and 💻 working to be a "MERN Stack" || Similar Javascript-Based Stacks 
     <br>
   🌱 I’m currently learning Bootstrap & React.js (React-Redux etc.) & Node.js (Express.js etc.)
     <br>
