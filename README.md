@@ -39,6 +39,7 @@
   </code>
   <br>
      📚 I take <a href="https://roadmap.sh/" title="roadmap.sh">roadmap.sh</a>  </code>as a reference in picking up the path and taking a guide for my learnings, and also now, I’m currently progressing in
+     <br>
     :chart_with_upwards_trend:<b>Paths:</b>
     <br>
     <code>
