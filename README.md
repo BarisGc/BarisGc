@@ -18,7 +18,7 @@
     <br>
     👀 I am interested in and 💻 working to be a "MERN Stack" or "React & .NET Stack" developer 
     <br>
-  🌱 I’m currently learning Bootstrap & React.js (React-Redux etc.) & Node.js (Express.js etc.) & .NET Core
+  🌱 I’m currently learning Bootstrap & React.js (React-Redux etc.) & Node.js (Express.js etc.)
     <br>
  <b>Certificates:</b>
   <br>
