@@ -1,62 +1,74 @@
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BarisGc.visitor-badge"> -->
+< !-- < img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BarisGc.visitor-badge"> -->
 
   <h1 align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!;This+is+Barış+Devrim....;Nice+to+meet+you!&center=true&size=30">
+      <img
+        src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!;This+is+Barış+Devrim....;Nice+to+meet+you!&center=true&size=30">
     </a>
   </h1>
 
   <h5 align="center">
-      <a href="https://www.linkedin.com/in/baris-devrim/" title="LinkedIn Profile"><img width="22" src="https://github.com/BarisGc/Images/blob/main/svg/linkedin-svgrepo-com.svg"> LinkedIn </a>
-<!--       <a href="https://www.hackerrank.com/BarisGc" title="HackerRank Profile"><img width="22" src="https://github.com/BarisGc/Images/blob/main/png/240px-HackerRank_Icon-1000px.png"> HackerRank </a> -->
+    <a href="https://www.linkedin.com/in/baris-devrim/" title="LinkedIn Profile"><img width="22"
+        src="https://github.com/BarisGc/Images/blob/main/svg/linkedin-svgrepo-com.svg"> LinkedIn </a>
+    <!--       <a href="https://www.hackerrank.com/BarisGc" title="HackerRank Profile"><img width="22" src="https://github.com/BarisGc/Images/blob/main/png/240px-HackerRank_Icon-1000px.png"> HackerRank </a> -->
   </h5>
   <p align="center">
-     Hi, I'm Barış Devrim, Industrial Engineer (+ MBA; Non-Thesis) & Software Developer from Turkey
+    Hi, I'm Barış Devrim, Industrial Engineer (+ MBA; Non-Thesis) & Software Developer from Turkey
     <br>
     :mag:I graduated from Yeditepe University (BSc.) & Isik University (MBA)
     <br>
-    👀 I am interested in and 💻 working to be a "MERN Stack" || Similar Javascript-Based Stacks 
+    👀 I am interested in and 💻 working to be a "MERN Stack" || Similar Javascript-Based Stacks
     <br>
-  🌱 I’m currently learning Bootstrap & React.js (React-Redux etc.) & Node.js (Express.js etc.) & DB (MongoDB NoSQL & PostgreSQL SQL)
+    🌱 I’m currently learning Bootstrap & React.js (React-Redux etc.) & Node.js (Express.js etc.) & DB (MongoDB NoSQL &
+    PostgreSQL SQL)
     <br>
- 	:trophy:<b>Certificates:</b>
-  <br>
-  <code>
+    :trophy:<b>Certificates:</b>
+    <br>
+    <code>
     <a href="https://drive.google.com/file/d/1sLa90Eutc0b_Tfr9gXc44E9xNvseI3xO/view?usp=sharing" title="Front-End Developer Certificate By Ismek">Front-End Developer Certificate By Ismek</a>
     </code>
-  <br>
-  <code>
+    <br>
+    <code>
     <a href="https://drive.google.com/file/d/17mny1ttUJfbhjmq2ZAcyT0LwSVX9ryGE/view?usp=sharing" title="Basic Web Design & Photoshop Certificate By Ismek">Basic Web Design & Photoshop Certificate By Ismek</a>
     </code>
-  <br>
-  <code>
+    <br>
+    <code>
     <a href="https://app.patika.dev/certificates/fxLH9mb" title="Starter Level Frontend Web Development Path Certificate By patika.dev">Starter Level Frontend Web Development Path Certificate By patika.dev</a>
     </code>
-  <br>
-  <code>
+    <br>
+    <code>
     <a href="https://app.patika.dev/certificates/fxLmc8P" title="Bootcamp Accelerator Program - Javascript Certificate By patika.dev">Bootcamp Accelerator Program - Javascript Certificate By patika.dev</a>
   </code>
-  <br>
-     📚 I take <a href="https://roadmap.sh/" title="roadmap.sh">roadmap.sh</a>  </code>as a reference in picking up the path and taking a guide for my learnings, and also now, I’m currently progressing in the
-     <br>
+    <br>
+    📚 I take <a href="https://roadmap.sh/" title="roadmap.sh">roadmap.sh</a> </code>as a reference in picking up the
+    path and taking a guide for my learnings, and also now, I’m currently progressing in the
+    <br>
     :chart_with_upwards_trend:<b>Paths:</b>
     <br>
     <code>
-    <a href="https://app.patika.dev/paths/orta-seviye-frontend-web-development-patikasi" title="orta-seviye-frontend-web-development-patikasi">orta-seviye-frontend-web-development-patikasi (patika.dev)</a><br>
-  <i>planned to be completed between april & may (unreached milestones yet: Deployment(Docker & Kubernetes) & a few of Redux final projects)</i>
-    </code>
+    <a href="https://app.patika.dev/paths/orta-seviye-frontend-web-development-patikasi" title="orta-seviye-frontend-web-development-patikasi">orta-seviye-frontend-web-development-patikasi (patika.dev)
+  </a>
+  </code>
+    <br>
+    <i>Planned to be completed between april & may (unreached milestones yet: Deployment(Docker & Kubernetes) & a few of
+      Redux final projects)</i>
     <br>
     <code>
-    <a href="https://app.patika.dev/paths/nodejs-ile-backend-patikasi" title="nodejs-ile-backend-patikasi">nodejs-ile-backend-patikasi (patika.dev)</a><br>
-  <i>planned to be completed between may & june (unreached milestones yet: Deployment(Docker & Kubernetes) & GraphQL & a few of Node.js final projects)</i>
-    </code>
+    <a href="https://app.patika.dev/paths/nodejs-ile-backend-patikasi" title="nodejs-ile-backend-patikasi">nodejs-ile-backend-patikasi (patika.dev)
+  </a>
+</code>
+    <br>
+    <i>Planned to be completed between may & june (unreached milestones yet: Deployment(Docker & Kubernetes) & GraphQL &
+      a few of Node.js final projects)</i>
     <br>
     <code>
-    <a href="https://app.patika.dev/paths/ileri-seviye-frontend-web-development-patikasi-" title="ileri-seviye-frontend-web-development-patikasi">ileri-seviye-frontend-web-development-patikasi (patika.dev)</a><br>
-  <i>planned to be completed between june & july (unreached milestones yet: all except REST API</i>
-    </code>
+    <a href="https://app.patika.dev/paths/ileri-seviye-frontend-web-development-patikasi-" title="ileri-seviye-frontend-web-development-patikasi">ileri-seviye-frontend-web-development-patikasi (patika.dev)
+  </a>
+  </code>
     <br>
-<!--     <b>Single Courses: this section may be added in the future...</b> --> 
+    <i>Planned to be completed between june & july (unreached milestones yet: All milestones except REST API</i>
+    <br>
+    <!--     <b>Single Courses: this section may be added in the future...</b> -->
     <br>
     💬 Ask me anything about from <a href="https://github.com/BarisGc/BarisGc/issues" title="Issues">Here</a>
     <br>
@@ -64,7 +76,9 @@
   </p>
 
   <hr>
-  <h2 align="center"><center>:electric_plug:</center> Languages & Frameworks & Tools & Abilities :electric_plug:</h2>
+  <h2 align="center">
+    <center>:electric_plug:</center> Languages & Frameworks & Tools & Abilities :electric_plug:
+  </h2>
   <br>
   <p align="center">
     <code><img title="HTML" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/html-1.svg"></code>
@@ -83,49 +97,69 @@
     <code><img title="Postman" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/postman.svg"></code>
     <img title="Docker" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/docker.svg">
     <code><img title="Apollo GrapQL" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/apollo-graphql-1.svg"></code>
-  <code><img title="Heroku" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/heroku-4.svg"></code>
-  <code><img title="Netlify" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/netlify.svg"></code>
+    <code><img title="Heroku" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/heroku-4.svg"></code>
+    <code><img title="Netlify" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/netlify.svg"></code>
   </p>
   <hr>
 
   <h2 align="center">⚡ Stats ⚡</h2>
   <p align=center>
-    <div align=center>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barisgc&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda,Shell,scss&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-      </a>
-    </div>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=barisgc&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda,Shell,scss&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
   </p>
 
   <hr>
 
   <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
   <br>
-  <div  align="center">
-  <h3 align="center">:round_pushpin: My Backend Weighted Projects :round_pushpin:</h3>
-  <a   href="https://github.com/BarisGc/SmartEdu-Education-Portal" title="https://github.com/BarisGc/SmartEdu-Education-Portal"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=SmartEdu-Education-Portal&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a   href="https://github.com/BarisGc/todo-app-react-redux-express" title="todo-app-react-redux-express"><img width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=todo-app-react-redux-express&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a   href="https://github.com/BarisGc/CleanBlog" title="CleanBlog"><img width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=CleanBlog&theme=react&border_color=61dafb&border_radius=10"></a>
+  <div align="center">
+    <h3 align="center">:round_pushpin: My Backend Weighted Projects :round_pushpin:</h3>
+    <a href="https://github.com/BarisGc/SmartEdu-Education-Portal"
+      title="https://github.com/BarisGc/SmartEdu-Education-Portal"><img width="300" height="125"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=SmartEdu-Education-Portal&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a href="https://github.com/BarisGc/todo-app-react-redux-express" title="todo-app-react-redux-express"><img
+        width="300" height="125"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=todo-app-react-redux-express&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a href="https://github.com/BarisGc/CleanBlog" title="CleanBlog"><img width="300" height="125"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=CleanBlog&theme=react&border_color=61dafb&border_radius=10"></a>
   </div>
   <h3 align="center">:round_pushpin: My Best Frontend Projects :round_pushpin:</h3>
-  <div  align="center">
-  <a   href="https://github.com/BarisGc/notes-app" title="Notes-App"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=notes-app&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a   href="https://github.com/BarisGc/spend-money-app" title="Spend-Money-App"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=spend-money-app&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a   href="https://github.com/BarisGc/cat-api-app" title="Cat-Api-App"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=cat-api-app&theme=react&border_color=61dafb&border_radius=10"></a>
+  <div align="center">
+    <a href="https://github.com/BarisGc/notes-app" title="Notes-App"><img width="300" height="125"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=notes-app&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a href="https://github.com/BarisGc/spend-money-app" title="Spend-Money-App"><img width="300" height="125"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=spend-money-app&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a href="https://github.com/BarisGc/cat-api-app" title="Cat-Api-App"><img width="300" height="125"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=cat-api-app&theme=react&border_color=61dafb&border_radius=10"></a>
   </div>
-  <div  align="center">
-  <a   href="https://github.com/BarisGc/memory-game" title="Memory-Game"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=memory-game&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a   href="https://github.com/BarisGc/TodoList_VanillaJS" title="TodoList_VanillaJS"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=TodoList_VanillaJS&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a   href="https://github.com/BarisGc/text-generator-app" title="Text-Generator-App"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=text-generator-app&theme=react&border_color=61dafb&border_radius=10"></a>
+  <div align="center">
+    <a href="https://github.com/BarisGc/memory-game" title="Memory-Game"><img width="300" height="125"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=memory-game&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a href="https://github.com/BarisGc/TodoList_VanillaJS" title="TodoList_VanillaJS"><img width="300" height="125"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=TodoList_VanillaJS&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a href="https://github.com/BarisGc/text-generator-app" title="Text-Generator-App"><img width="300" height="125"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=text-generator-app&theme=react&border_color=61dafb&border_radius=10"></a>
   </div>
-  <div  align="center">
-  <h3 align="center">:round_pushpin: Clones :round_pushpin:</h3>
-  <a   href="https://github.com/BarisGc/Bootstrap_Medium_Clone" title="Index Page Of medium.com(Mobile Responsive)"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=Bootstrap_Medium_Clone&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a   href="https://github.com/BarisGc/Bootstrap_Linkedin_Clone" title="Linkedin Homepage"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=Bootstrap_Linkedin_Clone&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a   href="https://github.com/BarisGc/Bootstrap_Instagram_Clone" title="Instagram Homepage"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=Bootstrap_Instagram_Clone&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a   href="https://github.com/BarisGc/Ismek_Clone" title="A Page Which Belongs To Old Enstitü Istanbul Ismek Website"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=Ismek_Clone&theme=react&border_color=61dafb&border_radius=10"></a>
+  <div align="center">
+    <h3 align="center">:round_pushpin: Clones :round_pushpin:</h3>
+    <a href="https://github.com/BarisGc/Bootstrap_Medium_Clone" title="Index Page Of medium.com(Mobile Responsive)"><img
+        width="300" height="125"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=Bootstrap_Medium_Clone&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a href="https://github.com/BarisGc/Bootstrap_Linkedin_Clone" title="Linkedin Homepage"><img width="300"
+        height="125"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=Bootstrap_Linkedin_Clone&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a href="https://github.com/BarisGc/Bootstrap_Instagram_Clone" title="Instagram Homepage"><img width="300"
+        height="125"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=Bootstrap_Instagram_Clone&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a href="https://github.com/BarisGc/Ismek_Clone"
+      title="A Page Which Belongs To Old Enstitü Istanbul Ismek Website"><img width="300" height="125"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=Ismek_Clone&theme=react&border_color=61dafb&border_radius=10"></a>
   </div>
-</div>
+  </div>
   <h4 align="center">
     <a href="https://github.com/BarisGc?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
   </h4>
