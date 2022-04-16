@@ -37,23 +37,23 @@
     <a href="https://app.patika.dev/certificates/fxLmc8P" title="Bootcamp Accelerator Program - Javascript Certificate By patika.dev">Bootcamp Accelerator Program - Javascript Certificate By patika.dev</a>
   </code>
   <br>
-     📚 I take <a href="https://roadmap.sh/" title="roadmap.sh">roadmap.sh</a>  </code>as a reference in picking up the path and taking a guide for my learnings, and also now, I’m currently progressing in
+     📚 I take <a href="https://roadmap.sh/" title="roadmap.sh">roadmap.sh</a>  </code>as a reference in picking up the path and taking a guide for my learnings, and also now, I’m currently progressing in the
      <br>
     :chart_with_upwards_trend:<b>Paths:</b>
     <br>
     <code>
     <a href="https://app.patika.dev/paths/orta-seviye-frontend-web-development-patikasi" title="orta-seviye-frontend-web-development-patikasi">orta-seviye-frontend-web-development-patikasi (patika.dev)</a>
-  <i>planned to be completed between april & may</i>
+  <i>planned to be completed between april & may (unreached milestones yet: Deployment(Docker & Kubernetes) & a few of Redux final projects)</i>
     </code>
     <br>
     <code>
     <a href="https://app.patika.dev/paths/nodejs-ile-backend-patikasi" title="nodejs-ile-backend-patikasi">nodejs-ile-backend-patikasi (patika.dev)</a>
-  <i>planned to be completed between may & june</i>
+  <i>planned to be completed between may & june (unreached milestones yet: Deployment(Docker & Kubernetes) & GraphQL & a few of Node.js final projects)</i>
     </code>
     <br>
     <code>
     <a href="https://app.patika.dev/paths/ileri-seviye-frontend-web-development-patikasi-" title="ileri-seviye-frontend-web-development-patikasi">ileri-seviye-frontend-web-development-patikasi (patika.dev)</a>
-  <i>planned to be completed between june & july</i>
+  <i>planned to be completed between june & july (unreached milestones yet: all except REST API</i>
     </code>
     <br>
 <!--     <b>Single Courses: this section may be added in the future...</b> --> 
@@ -89,7 +89,6 @@
   <hr>
 
   <h2 align="center">⚡ Stats ⚡</h2>
-  <br>
   <p align=center>
     <div align=center>
       <a href="https://github.com/anuraghazra/github-readme-stats">
