@@ -107,6 +107,7 @@
   <br>
   <div  align="center">
   <h3 align="center">👨‍💻 My Backend Weighted Projects 👨‍💻</h3>
+  <a   href="https://github.com/BarisGc/SmartEdu-Education-Portal" title="https://github.com/BarisGc/SmartEdu-Education-Portal"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=https://github.com/BarisGc/SmartEdu-Education-Portal&theme=react&border_color=61dafb&border_radius=10"></a>
   <a   href="https://github.com/BarisGc/https://github.com/BarisGc/SmartEdu-Education-Portal" title="https://github.com/BarisGc/SmartEdu-Education-Portal"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=https://github.com/BarisGc/SmartEdu-Education-Portal&theme=react&border_color=61dafb&border_radius=10"></a>
   <a   href="https://github.com/BarisGc/xCompany1-Internship-Coding-Task" title="xCompany1-Internship-Coding-Task"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=xCompany1-Internship-Coding-Task&theme=react&border_color=61dafb&border_radius=10"></a>
   <a   href="https://github.com/BarisGc/CleanBlog" title="CleanBlog"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=CleanBlog&theme=react&border_color=61dafb&border_radius=10"></a>
