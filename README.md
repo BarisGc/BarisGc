@@ -65,20 +65,18 @@
   </p>
 
   <hr>
-  <h2 align="center"><center>:electron:</center> Languages & Frameworks & Tools & Abilities :electron:</h2>
+  <h2 align="center"><center>:electric_plug:</center> Languages & Frameworks & Tools & Abilities :electric_plug:</h2>
   <br>
   <p align="center">
     <code><img title="HTML" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/html-1.svg"></code>
     <code><img title="CSS" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/css-3.svg"></code>
     <code><img title="Bootstrap" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/bootstrap-5-1.svg"></code>
     <code><img title="Javascript" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/logo-javascript.svg"></code>
-  <code><img title="C#" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/c-sharp-svgrepo-com.svg"></code>
     <code><img title="React" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/react-1.svg"></code>
     <code><img title="Redux" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/redux.svg"></code>
     <code><img title="Node.js" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/nodejs-1.svg"></code>
     <code><img title="Express.js" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/express-109.svg"></code>
     <code><img title="EJS" height="25" src="https://github.com/BarisGc/Images/blob/main/png/ejs.png"></code>
-  <code><img title=".Net Core" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/dotnet-svgrepo-com.svg"></code>
     <code><img title="MongoDB" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/mongodb-icon-1.svg"></code>
     <code><img title="Mongoose" height="25" src="https://github.com/BarisGc/Images/blob/main/jpeg/mongoose.jpeg"></code>
     <code><img title="Redis" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/redis.svg"></code>
@@ -106,12 +104,12 @@
   <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
   <br>
   <div  align="center">
-  <h3 align="center">👨‍💻 My Backend Weighted Projects 👨‍💻</h3>
+  <h3 align="center">:round_pushpin: My Backend Weighted Projects :round_pushpin:</h3>
   <a   href="https://github.com/BarisGc/SmartEdu-Education-Portal" title="https://github.com/BarisGc/SmartEdu-Education-Portal"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=SmartEdu-Education-Portal&theme=react&border_color=61dafb&border_radius=10"></a>
   <a   href="https://github.com/BarisGc/todo-app-react-redux-express" title="todo-app-react-redux-express"><img width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=todo-app-react-redux-express&theme=react&border_color=61dafb&border_radius=10"></a>
   <a   href="https://github.com/BarisGc/CleanBlog" title="CleanBlog"><img width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=CleanBlog&theme=react&border_color=61dafb&border_radius=10"></a>
   </div>
-  <h3 align="center">👨‍💻 My Best Frontend Projects 👨‍💻</h3>
+  <h3 align="center">:round_pushpin: My Best Frontend Projects :round_pushpin:</h3>
   <div  align="center">
   <a   href="https://github.com/BarisGc/notes-app" title="Notes-App"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=notes-app&theme=react&border_color=61dafb&border_radius=10"></a>
   <a   href="https://github.com/BarisGc/spend-money-app" title="Spend-Money-App"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=spend-money-app&theme=react&border_color=61dafb&border_radius=10"></a>
@@ -123,7 +121,7 @@
   <a   href="https://github.com/BarisGc/text-generator-app" title="Text-Generator-App"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=text-generator-app&theme=react&border_color=61dafb&border_radius=10"></a>
   </div>
   <div  align="center">
-  <h3 align="center">👨‍💻 Clones 👨‍💻</h3>
+  <h3 align="center">:round_pushpin: Clones :round_pushpin:</h3>
   <a   href="https://github.com/BarisGc/Bootstrap_Medium_Clone" title="Index Page Of medium.com(Mobile Responsive)"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=Bootstrap_Medium_Clone&theme=react&border_color=61dafb&border_radius=10"></a>
   <a   href="https://github.com/BarisGc/Bootstrap_Linkedin_Clone" title="Linkedin Homepage"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=Bootstrap_Linkedin_Clone&theme=react&border_color=61dafb&border_radius=10"></a>
   <a   href="https://github.com/BarisGc/Bootstrap_Instagram_Clone" title="Instagram Homepage"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=Bootstrap_Instagram_Clone&theme=react&border_color=61dafb&border_radius=10"></a>
