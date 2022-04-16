@@ -110,21 +110,16 @@
   <br>
    
   <div  align="center">
-    <a   href="https://github.com/BarisGc/notes-app" title="Notes-App"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=notes-app&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a   href="https://github.com/BarisGc/notes-app" title="Notes-App"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=notes-app&theme=react&border_color=61dafb&border_radius=10"></a>
   <a   href="https://github.com/BarisGc/spend-money-app" title="Spend-Money-App"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=spend-money-app&theme=react&border_color=61dafb&border_radius=10"></a>
   <a   href="https://github.com/BarisGc/cat-api-app" title="Cat-Api-App"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=cat-api-app&theme=react&border_color=61dafb&border_radius=10"></a>
-   </div>
-   <div  align="center">
+  </div>
+  <div  align="center">
   <a   href="https://github.com/BarisGc/memory-game" title="Memory-Game"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=memory-game&theme=react&border_color=61dafb&border_radius=10"></a>
   <a   href="https://github.com/BarisGc/TodoList_VanillaJS" title="TodoList_VanillaJS"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=TodoList_VanillaJS&theme=react&border_color=61dafb&border_radius=10"></a>
   <a   href="https://github.com/BarisGc/text-generator-app" title="Text-Generator-App"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=text-generator-app&theme=react&border_color=61dafb&border_radius=10"></a>
-   </div>
-    <div  align="center">
-  <a   href="https://github.com/BarisGc/TodoList_VanillaJS" title="TodoList_VanillaJS"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=TodoList_VanillaJS&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a   href="https://github.com/BarisGc/TodoList_VanillaJS" title="TodoList_VanillaJS"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=TodoList_VanillaJS&theme=react&border_color=61dafb&border_radius=10"></a>
-    <a   href="https://github.com/BarisGc/TodoList_VanillaJS" title="TodoList_VanillaJS"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=TodoList_VanillaJS&theme=react&border_color=61dafb&border_radius=10"></a>
-    </div>
-    <div  align="center">
+  </div>
+  <div  align="center">
   <h3 align="center">👨‍💻 Clones 👨‍💻</h3>
   <a   href="https://github.com/BarisGc/Bootstrap_Medium_Clone" title="Index Page Of medium.com(Mobile Responsive)"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=Bootstrap_Medium_Clone&theme=react&border_color=61dafb&border_radius=10"></a>
   <a   href="https://github.com/BarisGc/Bootstrap_Linkedin_Clone" title="Linkedin Homepage"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=Bootstrap_Linkedin_Clone&theme=react&border_color=61dafb&border_radius=10"></a>
@@ -132,7 +127,7 @@
   <a   href="https://github.com/BarisGc/Ismek_Clone" title="A Page Which Belongs To Old Enstitü Istanbul Ismek Website"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=Ismek_Clone&theme=react&border_color=61dafb&border_radius=10"></a>
   </div>
   <br>
-  </div>
+</div>
   <br><br><br><br><br><br>
 
   <h4 align="center">
