@@ -44,7 +44,7 @@
     <br>
     <code>
     <a href="https://app.patika.dev/paths/orta-seviye-frontend-web-development-patikasi" title="orta-seviye-frontend-web-development-patikasi">orta-seviye-frontend-web-development-patikasi (patika.dev)</a>
-  <i>planned to be completed between may & june</i>
+  <i>planned to be completed between april & may</i>
     </code>
     <br>
     <code>
