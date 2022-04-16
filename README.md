@@ -111,7 +111,6 @@
   <a   href="https://github.com/BarisGc/todo-app-react-redux-express" title="todo-app-react-redux-express"><img width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=todo-app-react-redux-express&theme=react&border_color=61dafb&border_radius=10"></a>
   <a   href="https://github.com/BarisGc/CleanBlog" title="CleanBlog"><img width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=CleanBlog&theme=react&border_color=61dafb&border_radius=10"></a>
   </div>
-  <br>
   <h3 align="center">👨‍💻 My Best Frontend Projects 👨‍💻</h3>
   <div  align="center">
   <a   href="https://github.com/BarisGc/notes-app" title="Notes-App"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=notes-app&theme=react&border_color=61dafb&border_radius=10"></a>
@@ -123,7 +122,6 @@
   <a   href="https://github.com/BarisGc/TodoList_VanillaJS" title="TodoList_VanillaJS"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=TodoList_VanillaJS&theme=react&border_color=61dafb&border_radius=10"></a>
   <a   href="https://github.com/BarisGc/text-generator-app" title="Text-Generator-App"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=text-generator-app&theme=react&border_color=61dafb&border_radius=10"></a>
   </div>
-  <br>
   <div  align="center">
   <h3 align="center">👨‍💻 Clones 👨‍💻</h3>
   <a   href="https://github.com/BarisGc/Bootstrap_Medium_Clone" title="Index Page Of medium.com(Mobile Responsive)"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=Bootstrap_Medium_Clone&theme=react&border_color=61dafb&border_radius=10"></a>
@@ -131,10 +129,7 @@
   <a   href="https://github.com/BarisGc/Bootstrap_Instagram_Clone" title="Instagram Homepage"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=Bootstrap_Instagram_Clone&theme=react&border_color=61dafb&border_radius=10"></a>
   <a   href="https://github.com/BarisGc/Ismek_Clone" title="A Page Which Belongs To Old Enstitü Istanbul Ismek Website"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=Ismek_Clone&theme=react&border_color=61dafb&border_radius=10"></a>
   </div>
-  <br>
 </div>
-  <br><br>
-
   <h4 align="center">
     <a href="https://github.com/BarisGc?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
   </h4>
