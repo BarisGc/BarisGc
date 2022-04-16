@@ -157,9 +157,6 @@
     <a href="https://github.com/BarisGc/Bootstrap_Instagram_Clone" title="Instagram Homepage"><img width="300"
         height="125"
         src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=Bootstrap_Instagram_Clone&theme=react&border_color=61dafb&border_radius=10"></a>
-    <a href="https://github.com/BarisGc/Ismek_Clone"
-      title="A Page Which Belongs To Old Enstitü Istanbul Ismek Website"><img width="300" height="125"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=Ismek_Clone&theme=react&border_color=61dafb&border_radius=10"></a>
   </div>
   </div>
   <h4 align="center">
