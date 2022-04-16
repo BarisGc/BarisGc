@@ -109,7 +109,7 @@
   <h3 align="center">👨‍💻 My Backend Weighted Projects 👨‍💻</h3>
   <a   href="https://github.com/BarisGc/SmartEdu-Education-Portal" title="https://github.com/BarisGc/SmartEdu-Education-Portal"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=SmartEdu-Education-Portal&theme=react&border_color=61dafb&border_radius=10"></a>
   <a   href="https://github.com/BarisGc/todo-app-react-redux-express" title="todo-app-react-redux-express"><img width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=todo-app-react-redux-express&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a   href="https://github.com/BarisGc/todo-app-react-redux-express" title="todo-app-react-redux-express"><img width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=todo-app-react-redux-express&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a   href="https://github.com/BarisGc/CleanBlog" title="CleanBlog"><img width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=CleanBlog&theme=react&border_color=61dafb&border_radius=10"></a>
     </div>
   <br>
   <h3 align="center">👨‍💻 My Best Frontend Projects 👨‍💻</h3>
