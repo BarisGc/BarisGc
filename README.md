@@ -51,8 +51,8 @@
     <a href="https://app.patika.dev/paths/nodejs-ile-backend-patikasi" title="nodejs-ile-backend-patikasi">nodejs-ile-backend-patikasi (patika.dev)</a>
   <i>planned to be completed between may & june</i>
     </code>
+    <br>
     <code>
-  <br>
     <a href="https://app.patika.dev/paths/ileri-seviye-frontend-web-development-patikasi-" title="ileri-seviye-frontend-web-development-patikasi">ileri-seviye-frontend-web-development-patikasi (patika.dev)</a>
   <i>planned to be completed between june & july</i>
     </code>
