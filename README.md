@@ -105,12 +105,21 @@
 
   <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
   <br>
-   <!--
+  
+  <h3 align="center">👨‍💻 My Best Frontend Projects 👨‍💻</h3>
+  <br>
+   
   <div width="100%" align="center">
-    <a align="left" href="https://github.com/ramazansancar/CS50x-Fellow-Basvuru-Islemleri" title="CS50x Fellow Başvuru İşlemleri"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ramazansancar&repo=CS50x-Fellow-Basvuru-Islemleri&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/ramazansancar/radyo" title="Radyo"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ramazansancar&repo=radyo&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a align="left" href="https://github.com/BarisGc/notes-app" title="Notes-App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=notes-app&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/BarisGc/spend-money-app" title="Spend-Money-App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=spend-money-app&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/BarisGc/cat-api-app" title="Cat-Api-App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=cat-api-app&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/BarisGc/memory-game" title="Memory-Game"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=memory-game&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/BarisGc/TodoList_VanillaJS" title="TodoList_VanillaJS"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&TodoList_VanillaJS&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/BarisGc/TodoList_VanillaJS" title="TodoList_VanillaJS"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&TodoList_VanillaJS&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/BarisGc/text-generator-app" title="Text-Generator-App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&text-generator-app&theme=react&border_color=61dafb&border_radius=10"></a>
   </div>
   <br><br><br><br><br><br>
--->
+
   <h4 align="center">
     <a href="https://github.com/BarisGc?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
   </h4>
