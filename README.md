@@ -128,9 +128,6 @@
         width="300" height="125"
         src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=todo-app-react-redux-express&theme=react&border_color=61dafb&border_radius=10">
   </a>
-    <a href="https://github.com/BarisGc/CleanBlog" title="CleanBlog"><img width="300" height="125"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=CleanBlog&theme=react&border_color=61dafb&border_radius=10">
-  </a>
   </div>
   <h3 align="center">:round_pushpin: My Best Frontend Projects :round_pushpin:</h3>
   <div align="center">
