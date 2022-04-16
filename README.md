@@ -42,17 +42,17 @@
     :chart_with_upwards_trend:<b>Paths:</b>
     <br>
     <code>
-    <a href="https://app.patika.dev/paths/orta-seviye-frontend-web-development-patikasi" title="orta-seviye-frontend-web-development-patikasi">orta-seviye-frontend-web-development-patikasi (patika.dev)</a>
+    <a href="https://app.patika.dev/paths/orta-seviye-frontend-web-development-patikasi" title="orta-seviye-frontend-web-development-patikasi">orta-seviye-frontend-web-development-patikasi (patika.dev)</a><br>
   <i>planned to be completed between april & may (unreached milestones yet: Deployment(Docker & Kubernetes) & a few of Redux final projects)</i>
     </code>
     <br>
     <code>
-    <a href="https://app.patika.dev/paths/nodejs-ile-backend-patikasi" title="nodejs-ile-backend-patikasi">nodejs-ile-backend-patikasi (patika.dev)</a>
+    <a href="https://app.patika.dev/paths/nodejs-ile-backend-patikasi" title="nodejs-ile-backend-patikasi">nodejs-ile-backend-patikasi (patika.dev)</a><br>
   <i>planned to be completed between may & june (unreached milestones yet: Deployment(Docker & Kubernetes) & GraphQL & a few of Node.js final projects)</i>
     </code>
     <br>
     <code>
-    <a href="https://app.patika.dev/paths/ileri-seviye-frontend-web-development-patikasi-" title="ileri-seviye-frontend-web-development-patikasi">ileri-seviye-frontend-web-development-patikasi (patika.dev)</a>
+    <a href="https://app.patika.dev/paths/ileri-seviye-frontend-web-development-patikasi-" title="ileri-seviye-frontend-web-development-patikasi">ileri-seviye-frontend-web-development-patikasi (patika.dev)</a><br>
   <i>planned to be completed between june & july (unreached milestones yet: all except REST API</i>
     </code>
     <br>
