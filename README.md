@@ -105,10 +105,14 @@
 
   <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
   <br>
-  
-  <h3 align="center">👨‍💻 My Best Frontend Projects 👨‍💻</h3>
+  <div  align="center">
+  <h3 align="center">👨‍💻 My Backend Weighted Projects 👨‍💻</h3>
+  <a   href="https://github.com/BarisGc/https://github.com/BarisGc/SmartEdu-Education-Portal" title="https://github.com/BarisGc/SmartEdu-Education-Portal"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=https://github.com/BarisGc/SmartEdu-Education-Portal&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a   href="https://github.com/BarisGc/xCompany1-Internship-Coding-Task" title="xCompany1-Internship-Coding-Task"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=xCompany1-Internship-Coding-Task&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a   href="https://github.com/BarisGc/CleanBlog" title="CleanBlog"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=CleanBlog&theme=react&border_color=61dafb&border_radius=10"></a>
+    </div>
   <br>
-   
+  <h3 align="center">👨‍💻 My Best Frontend Projects 👨‍💻</h3>
   <div  align="center">
   <a   href="https://github.com/BarisGc/notes-app" title="Notes-App"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=notes-app&theme=react&border_color=61dafb&border_radius=10"></a>
   <a   href="https://github.com/BarisGc/spend-money-app" title="Spend-Money-App"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=spend-money-app&theme=react&border_color=61dafb&border_radius=10"></a>
@@ -119,6 +123,7 @@
   <a   href="https://github.com/BarisGc/TodoList_VanillaJS" title="TodoList_VanillaJS"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=TodoList_VanillaJS&theme=react&border_color=61dafb&border_radius=10"></a>
   <a   href="https://github.com/BarisGc/text-generator-app" title="Text-Generator-App"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=text-generator-app&theme=react&border_color=61dafb&border_radius=10"></a>
   </div>
+  <br>
   <div  align="center">
   <h3 align="center">👨‍💻 Clones 👨‍💻</h3>
   <a   href="https://github.com/BarisGc/Bootstrap_Medium_Clone" title="Index Page Of medium.com(Mobile Responsive)"><img   width="300" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=Bootstrap_Medium_Clone&theme=react&border_color=61dafb&border_radius=10"></a>
