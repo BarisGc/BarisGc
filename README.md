@@ -151,6 +151,9 @@
     <a href="https://github.com/BarisGc/Bootstrap_Medium_Clone" title="Index Page Of medium.com(Mobile Responsive)"><img
         width="300" height="125"
         src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=Bootstrap_Medium_Clone&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/BarisGc/Bootstrap_Udemy_Clone" title="Udemy Homepage"><img width="300"
+        height="125"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=Bootstrap_Udemy_Clone&theme=react&border_color=61dafb&border_radius=10"></a>
     <a href="https://github.com/BarisGc/Bootstrap_Linkedin_Clone" title="Linkedin Homepage"><img width="300"
         height="125"
         src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=Bootstrap_Linkedin_Clone&theme=react&border_color=61dafb&border_radius=10"></a>
