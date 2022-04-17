@@ -140,7 +140,11 @@
   </div>
   <div align="center">
     <a href="https://github.com/BarisGc/memory-game" title="Memory-Game"><img width="300" height="125"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=memory-game&theme=react&border_color=61dafb&border_radius=10"></a>
+        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=memory-game&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a href="https://github.com/BarisGc/memory-game" title="Memory-Game"><img width="300" height="125"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=memory-game&theme=react&border_color=61dafb&border_radius=10">
+  </a>
     <a href="https://github.com/BarisGc/TodoList_VanillaJS" title="TodoList_VanillaJS"><img width="300" height="125"
         src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=TodoList_VanillaJS&theme=react&border_color=61dafb&border_radius=10"></a>
     <a href="https://github.com/BarisGc/text-generator-app" title="Text-Generator-App"><img width="300" height="125"
