@@ -115,7 +115,7 @@
   <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
   <br>
   <div align="center">
-    <h3 align="center">:round_pushpin: My MEAN-Stack Projects :round_pushpin:</h3>
+    <h3 align="center">:round_pushpin: My MERN-Stack Projects :round_pushpin:</h3>
     <a href="https://github.com/BarisGc/SmartEdu-Education-Portal"
       title="https://github.com/BarisGc/SmartEdu-Education-Portal"><img width="300" height="125"
         src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=SmartEdu-Education-Portal&theme=react&border_color=61dafb&border_radius=10">
