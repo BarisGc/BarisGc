@@ -11,7 +11,7 @@
     <!--       <a href="https://www.hackerrank.com/BarisGc" title="HackerRank Profile"><img width="22" src="https://github.com/BarisGc/Images/blob/main/png/240px-HackerRank_Icon-1000px.png"> HackerRank </a> -->
   </h5>
   <p align="center">
-    Hi, I'm Barış Devrim, Industrial Engineer (+ MBA; Non-Thesis) & Software Developer from Turkey
+    Hi, I'm Barış Devrim, Industrial Engineer (+ MBA; Non-Thesis), Frontend & MERN Developer Candidate from Turkey
     <br>
     :mag:I graduated from Yeditepe University (BSc.) & Isik University (MBA)
     <br>
