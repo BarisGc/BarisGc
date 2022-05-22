@@ -42,7 +42,6 @@
     <a href="https://drive.google.com/file/d/17mny1ttUJfbhjmq2ZAcyT0LwSVX9ryGE/view?usp=sharing" title="Basic Web Design & Photoshop Certificate By Ismek">Basic Web Design & Photoshop Certificate By Ismek</a>
     </code>
     <br>
-   <br>
     📚 I take <a href="https://roadmap.sh/" title="roadmap.sh">roadmap.sh</a> </code>as a reference in picking up the
     path and taking a guide for my learnings, and also now, I’m currently progressing in the
     <br>
