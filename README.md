@@ -15,19 +15,15 @@
     <br>
     :mag:I graduated from Yeditepe University (BSc.) & Isik University (MBA)
     <br>
-    👀 I am interested in and 💻 working on "MERN Stack"
+    👀 I am interested in and 💻 working on "Javascript Based Stacks"
     <br>
-    🌱 I’m currently learning Bootstrap & React.js (React-Redux etc.) & Node.js (Express.js etc.) & DB (MongoDB NoSQL &
+    🌱 I’m currently learning Bootstrap & React.js (React-Redux etc.) & Vue.js & Node.js (Express.js etc.) & DB (MongoDB NoSQL &
     PostgreSQL SQL)
     <br>
     :trophy:<b>Certificates:</b>
     <br>
     <code>
-    <a href="https://drive.google.com/file/d/1sLa90Eutc0b_Tfr9gXc44E9xNvseI3xO/view?usp=sharing" title="Front-End Developer Certificate By Ismek">Front-End Developer Certificate By Ismek</a>
-    </code>
-    <br>
-    <code>
-    <a href="https://drive.google.com/file/d/17mny1ttUJfbhjmq2ZAcyT0LwSVX9ryGE/view?usp=sharing" title="Basic Web Design & Photoshop Certificate By Ismek">Basic Web Design & Photoshop Certificate By Ismek</a>
+    <a href="https://app.patika.dev/certificates/fxLuQ9k" title="Intermediate Level Frontend Web Development Path Certificate By patika.dev">Intermediate Level Frontend Web Development Path Certificate By patika.dev</a>
     </code>
     <br>
     <code>
@@ -37,6 +33,14 @@
     <code>
     <a href="https://app.patika.dev/certificates/fxLmc8P" title="Bootcamp Accelerator Program - Javascript Certificate By patika.dev">Bootcamp Accelerator Program - Javascript Certificate By patika.dev</a>
   </code>
+  <br>
+  <code>
+    <a href="https://drive.google.com/file/d/1sLa90Eutc0b_Tfr9gXc44E9xNvseI3xO/view?usp=sharing" title="Front-End Developer Certificate By Ismek">Front-End Developer Certificate By Ismek</a>
+    </code>
+    <br>
+    <code>
+    <a href="https://drive.google.com/file/d/17mny1ttUJfbhjmq2ZAcyT0LwSVX9ryGE/view?usp=sharing" title="Basic Web Design & Photoshop Certificate By Ismek">Basic Web Design & Photoshop Certificate By Ismek</a>
+    </code>
     <br>
     📚 I take <a href="https://roadmap.sh/" title="roadmap.sh">roadmap.sh</a> </code>as a reference in picking up the
     path and taking a guide for my learnings, and also now, I’m currently progressing in the
