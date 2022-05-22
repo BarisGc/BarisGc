@@ -63,9 +63,6 @@
       a few of Node.js final projects)</i>
 </code>
     <br>
-    <i>(unreached milestones yet: GraphQL &
-      a few of Node.js final projects)</i>
-    <br>
     <!--     <b>Single Courses: this section may be added in the future...</b> -->
     <br>
     💬 Ask me anything about from <a href="https://github.com/BarisGc/BarisGc/issues" title="Issues">Here</a>
