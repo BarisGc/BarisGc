@@ -59,7 +59,8 @@
     <br>
     <code>
     <a href="https://app.patika.dev/paths/nodejs-ile-backend-patikasi" title="nodejs-ile-backend-patikasi">nodejs-ile-backend-patikasi (patika.dev)
-  </a>
+  </a><i>(unreached milestones yet: GraphQL &
+      a few of Node.js final projects)</i>
 </code>
     <br>
     <i>(unreached milestones yet: GraphQL &
