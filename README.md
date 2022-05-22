@@ -45,8 +45,13 @@
     📚 I take <a href="https://roadmap.sh/" title="roadmap.sh">roadmap.sh</a> </code>as a reference in picking up the
     path and taking a guide for my learnings, and also now, I’m currently progressing in the
     <br>
-    :chart_with_upwards_trend:<b>Paths:</b>
+    :chart_with_upwards_trend:<b>Paths / Courses / Bootcamps:</b>
     <br>
+    <code>
+    <a href="https://www.youtube.com/watch?v=SAIBu6YvErE&list=PL_f2F0Oyaj48Y0Uv4BTlqzK7INi92D2wp" title="Vue3 Bootcamp by Gökhan Kandemir">Vue3 Bootcamp by Gökhan Kandemir
+  </a>
+  </code>
+  <br>
     <code>
     <a href="https://app.patika.dev/paths/ileri-seviye-frontend-web-development-patikasi-" title="ileri-seviye-frontend-web-development-patikasi">ileri-seviye-frontend-web-development-patikasi (patika.dev)
   </a>
@@ -57,7 +62,7 @@
   </a>
 </code>
     <br>
-    <i>(unreached milestones yet: Deployment(Docker & Kubernetes) & GraphQL &
+    <i>(unreached milestones yet: GraphQL &
       a few of Node.js final projects)</i>
     <br>
     <!--     <b>Single Courses: this section may be added in the future...</b> -->
