@@ -152,12 +152,13 @@
   </a>
   <a href="https://github.com/BarisGc/text-generator-app" title="Text-Generator-App"><img width="300" height="125"
         src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=text-generator-app&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/BarisGc/TodoList_VanillaJS" title="TodoList_VanillaJS"><img width="300" height="125"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=TodoList_VanillaJS&theme=react&border_color=61dafb&border_radius=10">
+  </a>
   <a href="https://github.com/BarisGc/covid-19-tracker" title="covid-19-tracker"><img width="300" height="125"
         src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=covid-19-tracker&theme=react&border_color=61dafb&border_radius=10">
   </a>
-    <a href="https://github.com/BarisGc/TodoList_VanillaJS" title="TodoList_VanillaJS"><img width="300" height="125"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=TodoList_VanillaJS&theme=react&border_color=61dafb&border_radius=10"></a>
-  </div>
+      </div>
   <div align="center">
     <h3 align="center">:round_pushpin: Clones :round_pushpin:</h3>
     <a href="https://github.com/BarisGc/Bootstrap_Medium_Clone" title="Index Page Of medium.com(Mobile Responsive)"><img
