@@ -137,10 +137,7 @@
     <a href="https://github.com/BarisGc/weather-app-v2" title="weather-app-v2"><img width="300" height="125"
         src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=weather-app-v2&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a href="https://github.com/BarisGc/covid-19-tracker" title="covid-19-tracker"><img width="300" height="125"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=covid-19-tracker&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  </div>
+    </div>
   <div align="center">
     <a href="https://github.com/BarisGc/notes-app" title="Notes-App"><img width="300" height="125"
         src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=notes-app&theme=react&border_color=61dafb&border_radius=10"></a>
@@ -155,6 +152,9 @@
   </a>
   <a href="https://github.com/BarisGc/text-generator-app" title="Text-Generator-App"><img width="300" height="125"
         src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=text-generator-app&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/BarisGc/covid-19-tracker" title="covid-19-tracker"><img width="300" height="125"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=covid-19-tracker&theme=react&border_color=61dafb&border_radius=10">
+  </a>
     <a href="https://github.com/BarisGc/TodoList_VanillaJS" title="TodoList_VanillaJS"><img width="300" height="125"
         src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=TodoList_VanillaJS&theme=react&border_color=61dafb&border_radius=10"></a>
   </div>
