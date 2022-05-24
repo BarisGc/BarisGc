@@ -135,7 +135,7 @@
         src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=typing-speed-app&theme=react&border_color=61dafb&border_radius=10">
   </a>
     <a href="https://github.com/BarisGc/weather-app-v2" title="weather-app-v2"><img width="300" height="125"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=weather-app-v&theme=react&border_color=61dafb&border_radius=10">
+        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=weather-app-v2&theme=react&border_color=61dafb&border_radius=10">
   </a>
   <a href="https://github.com/BarisGc/covid-19-tracker" title="covid-19-tracker"><img width="300" height="125"
         src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=covid-19-tracker&theme=react&border_color=61dafb&border_radius=10">
