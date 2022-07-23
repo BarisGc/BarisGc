@@ -76,7 +76,22 @@
   </h2>
   <br>
   <p align="center">
-    <code><img title="HTML" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/html-1.svg"></code>
+    React
+    - Angular
+    - Vue
+    - Redux
+    - Postman
+    - GrapQL
+    - Html
+    - Css
+    - Javascript
+    - Bootstrap
+    - Node.js
+    - Express
+    - Ejs
+    - MongoDB
+    - Mongoose
+        <!--     <code><img title="HTML" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/html-1.svg"></code>
     <code><img title="CSS" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/css-3.svg"></code>
     <code><img title="Bootstrap" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/bootstrap-5-1.svg"></code>
     <code><img title="Javascript" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/logo-javascript.svg"></code>
@@ -89,7 +104,7 @@
     <code><img title="Mongoose" height="25" src="https://github.com/BarisGc/Images/blob/main/jpeg/mongoose.jpeg"></code>
     <code><img title="PostgreSQL" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/postgresql.svg"></code>
     <code><img title="Postman" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/postman.svg"></code>
-    <code><img title="Apollo GrapQL" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/apollo-graphql-1.svg"></code>
+    <code><img title="Apollo GrapQL" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/apollo-graphql-1.svg"></code> -->
 <!--       <code><img title="Redis" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/redis.svg"></code> -->
 <!--   <code><img title="Docker" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/docker.svg"></code> -->
 <!--     <code><img title="Heroku" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/heroku-4.svg"></code>
