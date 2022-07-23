@@ -17,7 +17,7 @@
     <br>
     👀 I am interested in and 💻 working on "Javascript Based Stacks"
     <br>
-    🌱 I’m currently learning or developing on React.js (React-Redux etc.) & Angular (Ngrx Etc.) & Vue.js & Node.js (Express.js etc.) & DB (MongoDB NoSQL)
+    🌱 I’m currently learning or developing on React.js (React-Redux etc.) & Angular (Rxjs, Ngrx Etc.) & Vue.js & Node.js (Express.js etc.) & DB (MongoDB NoSQL)
     <br>
     :trophy:<b>Certificates:</b>
     <br>
