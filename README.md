@@ -7,7 +7,9 @@
 
   <h5 align="center">
     <a href="https://www.linkedin.com/in/baris-devrim/" title="LinkedIn Profile"><img width="22"
-        src="https://github.com/BarisGc/Images/blob/main/svg/linkedin-svgrepo-com.svg"> LinkedIn </a>
+<!--         src="https://github.com/BarisGc/Images/blob/main/svg/linkedin-svgrepo-com.svg">  -->
+      LinkedIn 
+  </a>
     <!--       <a href="https://www.hackerrank.com/BarisGc" title="HackerRank Profile"><img width="22" src="https://github.com/BarisGc/Images/blob/main/png/240px-HackerRank_Icon-1000px.png"> HackerRank </a> -->
   </h5>
   <p align="center">
