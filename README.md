@@ -6,7 +6,7 @@
   </h1>
 
   <h5 align="center">
-    <a href="https://www.linkedin.com/in/baris-devrim/" title="LinkedIn Profile">
+    <a href="https://www.linkedin.com/in/baris--devrim/" title="LinkedIn Profile">
       - LinkedIn -
   </a>
   </h5>
@@ -14,7 +14,7 @@
     <!--       <a href="https://www.hackerrank.com/BarisGc" title="HackerRank Profile"><img width="22" src="https://github.com/BarisGc/Images/blob/main/png/240px-HackerRank_Icon-1000px.png"> HackerRank </a> -->
 
   <p align="center">
-    Hi, I'm Barış Devrim, Industrial Engineer (+ MBA; Non-Thesis), Frontend Developer from Turkey
+    Hi, I'm Barış Devrim, Industrial Engineer (+ MBA; Non-Thesis), working as Frontend Developer for ROBOPLAS IML ROBOT AUTOMATION VISION from Turkey
     <br>
     :mag:I graduated from Yeditepe University (BSc.) & Isik University (MBA)
     <br>
