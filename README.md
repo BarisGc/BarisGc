@@ -18,9 +18,10 @@
     <br>
     :mag:I graduated from Yeditepe University (BSc.) & Isik University (MBA)
     <br>
-    👀 I am interested in and 💻 working on "Javascript Based Stacks"
+    👀 interested in, 🌱learning and 💻working on Angular
     <br>
-    🌱 I’m currently learning or developing on React.js (React-Redux etc.) & Angular (Rxjs, Ngrx Etc.) & Vue.js & Node.js (Express.js etc.) & DB (MongoDB NoSQL)
+    <!---🌱 I’m currently learning or developing on React.js (React-Redux etc.) & Angular (Rxjs, Ngrx Etc.) & Vue.js & Node.js (Express.js etc.) & DB (MongoDB NoSQL)
+    --->
     <br>
     :trophy:<b>Certificates:</b>
     <br>
@@ -44,8 +45,9 @@
     <a href="https://drive.google.com/file/d/17mny1ttUJfbhjmq2ZAcyT0LwSVX9ryGE/view?usp=sharing" title="Basic Web Design & Photoshop Certificate By Ismek">Basic Web Design & Photoshop Certificate By Ismek</a>
     </code>
     <br>
-    📚 I take <a href="https://roadmap.sh/" title="roadmap.sh">roadmap.sh</a> </code>as a reference in picking up the
-    path and taking a guide for my learnings, and also now, I’m currently progressing in the
+    📚 My Roadmap: <a href="https://roadmap.sh/frontend" title="roadmap.sh/frontend">Frontend</a> & <a href="https://roadmap.sh/angular" title="roadmap.sh/angular">Angular</a> </code>
+    <!---
+    , and also now, I’m currently progressing in the
     <br>
     :chart_with_upwards_trend:<b>Paths / Courses / Bootcamps:</b>
     <br>
@@ -78,21 +80,22 @@
   </h2>
   <br>
   <p align="center">
-    React
-    - Angular
-    - Vue
-    - Redux
-    - Postman
-    - GrapQL
-    - Html
-    - Css
-    - Javascript
-    - Bootstrap
-    - Node.js
-    - Express
-    - Ejs
-    - MongoDB
-    - Mongoose
+
+
+1. <b><i>Professional Projects; ERP Software (CRM Module Included):</i></b>
+* Angular
+* DevExpress (DevExtreme Angular Components, Responsible for Integration)
+* Bootstrap, PrimeNG
+* Docusaurus (Responsible for Integration)
+* Semantic Versioning with Semantic-Release & Conventional Commits (Responsible for Integration)
+* Jira
+
+2. <b><i>Self-Taught Projects:</i></b>
+* React (Hooks, Context API, Fetch etc.), React-Redux (Redux Toolkit, Redux-Persist etc.), React-Router, React-Bootstrap, Chakra-UI, Formik, Yup, Axios
+* Node.js, Express, Ejs, MongoDB, Mongoose, PostgreSQL
+* Compodoc
+* JSDoc
+* Ngrx
         <!--     <code><img title="HTML" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/html-1.svg"></code>
     <code><img title="CSS" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/css-3.svg"></code>
     <code><img title="Bootstrap" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/bootstrap-5-1.svg"></code>
@@ -111,7 +114,7 @@
 <!--   <code><img title="Docker" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/docker.svg"></code> -->
 <!--     <code><img title="Heroku" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/heroku-4.svg"></code>
     <code><img title="Netlify" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/netlify.svg"></code> -->
-  </p>
+ <!-- </p>
   <hr>
 
   <h2 align="center">⚡ Stats ⚡</h2>
@@ -195,7 +198,7 @@
   <h4 align="center">
     <a href="https://github.com/BarisGc?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
   </h4>
-
+--->
   <!--
 
   Here are some ideas to get you started:
