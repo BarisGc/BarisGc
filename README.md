@@ -6,7 +6,7 @@
   </h1> -->
 
   <h5 align="center">
-    <a href="https://www.linkedin.com/in/baris--devrim/" title="LinkedIn Profile">
+    <a href="https://www.linkedin.com/in/baris-devrim/" title="LinkedIn Profile">
       - LinkedIn -
   </a>
   </h5>
