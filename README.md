@@ -94,8 +94,8 @@
 * Ngrx
 * React (Hooks, Context API, Fetch etc.), React-Redux (Redux Toolkit, Redux-Persist etc.), React-Router, React-Bootstrap, Chakra-UI, Formik, Yup, Axios
 * Node.js, Express, Ejs, MongoDB, Mongoose, PostgreSQL
-
-        <!--     <code><img title="HTML" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/html-1.svg"></code>
+    
+<!--      <code><img title="HTML" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/html-1.svg"></code>
     <code><img title="CSS" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/css-3.svg"></code>
     <code><img title="Bootstrap" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/bootstrap-5-1.svg"></code>
     <code><img title="Javascript" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/logo-javascript.svg"></code>
