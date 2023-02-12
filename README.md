@@ -18,7 +18,7 @@
     <br>
     :mag:I graduated from Yeditepe University (BSc.) & Isik University (MBA)
     <br>
-    👀 interested in, 🌱learning and 💻working on Angular
+    👀 interested in learning🌱 and working💻 on Angular
     <br>
     <!---🌱 I’m currently learning or developing on React.js (React-Redux etc.) & Angular (Rxjs, Ngrx Etc.) & Vue.js & Node.js (Express.js etc.) & DB (MongoDB NoSQL)
     --->
