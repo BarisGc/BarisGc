@@ -1,9 +1,9 @@
-  <h1 align="center">
+<!--   <h1 align="center">
     <a href="https://git.io/typing-svg">
       <img
         src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!;This+is+Barış+Devrim....;Nice+to+meet+you!&center=true&size=30">
     </a>
-  </h1>
+  </h1> -->
 
   <h5 align="center">
     <a href="https://www.linkedin.com/in/baris--devrim/" title="LinkedIn Profile">
@@ -22,7 +22,7 @@
     <br>
     <!---🌱 I’m currently learning or developing on React.js (React-Redux etc.) & Angular (Rxjs, Ngrx Etc.) & Vue.js & Node.js (Express.js etc.) & DB (MongoDB NoSQL)
     --->
-    <br>
+<!--     <br>
     :trophy:<b>Certificates:</b>
     <br>
     <code>
@@ -45,7 +45,7 @@
     <a href="https://drive.google.com/file/d/17mny1ttUJfbhjmq2ZAcyT0LwSVX9ryGE/view?usp=sharing" title="Basic Web Design & Photoshop Certificate By Ismek">Basic Web Design & Photoshop Certificate By Ismek</a>
     </code>
     <br>
-    📚 My Roadmap: <a href="https://roadmap.sh/frontend" title="roadmap.sh/frontend">Frontend</a> & <a href="https://roadmap.sh/angular" title="roadmap.sh/angular">Angular</a> </code>
+    📚 My Roadmap: <a href="https://roadmap.sh/frontend" title="roadmap.sh/frontend">Frontend</a> & <a href="https://roadmap.sh/angular" title="roadmap.sh/angular">Angular</a> </code> -->
     <!---
     , and also now, I’m currently progressing in the
     <br>
@@ -68,8 +68,8 @@
 </code>
     <br>
     <!--     <b>Single Courses: this section may be added in the future...</b> -->
-    <br>
-    💬 Ask me anything about from <a href="https://github.com/BarisGc/BarisGc/issues" title="Issues">Here</a>
+<!--     <br>
+    💬 Ask me anything about from <a href="https://github.com/BarisGc/BarisGc/issues" title="Issues">Here</a> -->
     <br>
     📫 How to reach me: <a href="mailto: baris.devrim1@gmail.com">baris.devrim1@gmail.com</a>
   </p>
@@ -86,16 +86,15 @@
 * Angular
 * DevExpress (DevExtreme Angular Components, Responsible for Integration)
 * Bootstrap, PrimeNG
-* Docusaurus (Responsible for Integration)
+* Compodoc & Docusaurus (Responsible for Integration)
 * Semantic Versioning with Semantic-Release & Conventional Commits (Responsible for Integration)
 * Jira
 
 2. <b><i>Self-Taught Projects:</i></b>
+* Ngrx
 * React (Hooks, Context API, Fetch etc.), React-Redux (Redux Toolkit, Redux-Persist etc.), React-Router, React-Bootstrap, Chakra-UI, Formik, Yup, Axios
 * Node.js, Express, Ejs, MongoDB, Mongoose, PostgreSQL
-* Compodoc
-* JSDoc
-* Ngrx
+
         <!--     <code><img title="HTML" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/html-1.svg"></code>
     <code><img title="CSS" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/css-3.svg"></code>
     <code><img title="Bootstrap" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/bootstrap-5-1.svg"></code>
