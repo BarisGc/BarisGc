@@ -88,10 +88,11 @@
 * Bootstrap, PrimeNG
 * Compodoc & Docusaurus (Responsible for Integration)
 * Semantic Versioning with Semantic-Release & Conventional Commits (Responsible for Integration)
-* Jira
+* Jira, YouTrack
 
 2. <b><i>Self-Taught Projects:</i></b>
 * Ngrx
+* Nest.js + Prisma + PostgreSQL
 * React (Hooks, Context API, Fetch etc.), React-Redux (Redux Toolkit, Redux-Persist etc.), React-Router, React-Bootstrap, Chakra-UI, Formik, Yup, Axios
 * Node.js, Express, Ejs, MongoDB, Mongoose, PostgreSQL
     
