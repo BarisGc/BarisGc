@@ -74,15 +74,15 @@
     📫 How to reach me: <a href="mailto: baris.devrim1@gmail.com">baris.devrim1@gmail.com</a>
   </p>
 
-  <hr>
+   <!-- <hr>
   <h2 align="center">
-    <center>:electric_plug:</center> Languages & Frameworks & Tools & Abilities :electric_plug:
+   <!-- <center>:electric_plug:</center> Languages & Frameworks & Tools & Abilities :electric_plug: -->
   </h2>
   <br>
   <p align="center">
+-->
 
-
-1. <b><i>Professional Projects; ERP Software (CRM Module Included):</i></b>
+<!-- 1. <b><i>Professional Projects; ERP Software (CRM Module Included):</i></b>
 * Angular
 * DevExpress (DevExtreme Angular Components, Responsible for Integration)
 * Bootstrap, PrimeNG
@@ -94,7 +94,7 @@
 * Ngrx
 * Nest.js + Prisma + PostgreSQL
 * React (Hooks, Context API, Fetch etc.), React-Redux (Redux Toolkit, Redux-Persist etc.), React-Router, React-Bootstrap, Chakra-UI, Formik, Yup, Axios
-* Node.js, Express, Ejs, MongoDB, Mongoose, PostgreSQL
+* Node.js, Express, Ejs, MongoDB, Mongoose, PostgreSQL -->
     
 <!--      <code><img title="HTML" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/html-1.svg"></code>
     <code><img title="CSS" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/css-3.svg"></code>
