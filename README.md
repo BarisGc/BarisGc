@@ -74,13 +74,13 @@
     📫 How to reach me: <a href="mailto: baris.devrim1@gmail.com">baris.devrim1@gmail.com</a>
   </p>
 
-   <!-- <hr>
+   <!-- <hr> 
   <h2 align="center">
-   <!-- <center>:electric_plug:</center> Languages & Frameworks & Tools & Abilities :electric_plug: -->
+   <center>:electric_plug:</center> Languages & Frameworks & Tools & Abilities :electric_plug:
   </h2>
   <br>
-  <p align="center">
--->
+  <p align="center"> -->
+
 
 <!-- 1. <b><i>Professional Projects; ERP Software (CRM Module Included):</i></b>
 * Angular
