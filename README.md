@@ -1,220 +1,150 @@
-<!--   <h1 align="center">
-    <a href="https://git.io/typing-svg">
-      <img
-        src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!;This+is+Barış+Devrim....;Nice+to+meet+you!&center=true&size=30">
-    </a>
-  </h1> -->
+# Hi, I'm Barış Devrim 👋
 
-  <h5 align="center">
-    <a href="https://www.linkedin.com/in/barisdevrim/" title="LinkedIn Profile">
-      - LinkedIn -
+## 👨‍💻 About Me
+
+I'm a **Frontend Software Developer** from Turkey with a passion for building performant web applications. With a background in Industrial Engineering and an MBA, I bring a unique perspective to software development.
+
+### 🎯 What I Do
+
+- **Frontend Development Specialist** with strong expertise in Angular
+- Experience supporting projects built with React, Vue, NestJS, and .NET
+- Focus on performance optimization, SEO, and user experience
+- Mentor and team player dedicated to code quality and best practices
+
+### 📚 Education
+
+- **Industrial and Systems Engineering** - Yeditepe University (BSc.)
+- **MBA (Non-Thesis)** - Işık University
+- **Computer Engineering** - Horizontal Transition at Yeditepe University
+
+---
+
+## 🛠️ Tech Stack
+
+### Core Expertise
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Angular Material](https://img.shields.io/badge/Angular%20Material-009688?style=for-the-badge&logo=angular&logoColor=white)
+![PrimeNG](https://img.shields.io/badge/PrimeNG-009688?style=for-the-badge&logo=primeng&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Ngrx SignalStore](https://img.shields.io/badge/Ngrx%20SignalStore-BA382F?style=for-the-badge&logo=redux&logoColor=white)
+![SSR](https://img.shields.io/badge/SSR-000000?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Supporting Frontend Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React-Redux](https://img.shields.io/badge/React%20Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![PrimeReact](https://img.shields.io/badge/PrimeReact-009688?style=for-the-badge&logo=primereact&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FDD835?style=for-the-badge&logo=pinia&logoColor=black)
+![Nuxt UI](https://img.shields.io/badge/Nuxt%20UI-369956?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![PrimeVue](https://img.shields.io/badge/PrimeVue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
+### Supporting Backend Stack
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Sqlite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-00A8E8?style=for-the-badge&logo=signalr&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
+
+### Supporting Mobile Stack
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+
+### Testing & Quality Assurance
+![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-0A9EDC?style=for-the-badge&logo=supertest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Fast-check](https://img.shields.io/badge/Fast--check-FF6B6B?style=for-the-badge&logo=haskell&logoColor=white)
+
+### Specialized Domains
+![Cloud ERP/CRM](https://img.shields.io/badge/Cloud%20ERP%2FCRM-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![E-Marketplace](https://img.shields.io/badge/E--Marketplace-FF6B6B?style=for-the-badge&logo=amazon&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+
+### Workflow
+![AI-Assisted Development](https://img.shields.io/badge/AI%20Assisted-4285F4?style=for-the-badge&logo=openai&logoColor=white)
+![Polyrepo](https://img.shields.io/badge/Polyrepo-3178C6?style=for-the-badge&logo=git&logoColor=white)
+![Nx Monorepo](https://img.shields.io/badge/Nx%20Monorepo-143055?style=for-the-badge&logo=nx&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-000000?style=for-the-badge&logo=agile&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=confluence&logoColor=white)
+
+---
+
+## 💼 Professional Experience
+
+### **Frontend Developer @ Pempati** *(March 2024 - Present)*
+- **E-Marketplace Platform** - Developed both front office and back office systems
+- **Key Achievements:**
+  - 🚀 Implemented Angular SSR from scratch
+  - 📈 Upgraded Angular from v13→18 and v14→21
+  - 🎯 Established Angular/RxJS/TypeScript ESLint rules
+  - 🧹 Improved codebase with Atomic Design methodology
+  - 📚 Mentored team on best practices including RxJS to Signals migration
+
+### **Frontend Developer @ Roboplas Robotic Systems** *(May 2022 - Oct 2023)*
+- **Cloud ERP (CRM included)** - Enterprise-level ERP for industrial robotics
+- Developed complex ERP modules including production planning and inventory management
+
+---
+
+## 🌱 Current Focus & Interests
+
+I'm passionate about:
+- 🚀 **Modern Angular Development** - Exploring the latest Angular features and best practices
+- 🎨 **Performance Optimization** - Web Vitals, SSR, and efficient rendering
+- 🧪 **Testing Strategies** - Unit, integration, and E2E testing
+- 🤖 **AI-Assisted Development** - Leveraging AI for spec-driven development
+- 📚 **Knowledge Sharing** - Mentoring and technical writing
+
+---
+
+## 📊 GitHub Stats
+
+![BarisGc's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarisGc&show_icons=true&theme=radical)
+![BarisGc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BarisGc&layout=compact&theme=radical)
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 **Email:** [baris.devrim1@gmail.com](mailto:baris.devrim1@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/barisdevrim](https://www.linkedin.com/in/barisdevrim)
+- 📍 **Location:** Istanbul / Ankara, Turkey
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to discussing new opportunities, interesting projects, or just having a chat about web development. Feel free to reach out!
+
+<p align="center">
+  <a href="mailto:baris.devrim1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-baris.devrim1%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  </h5>
-      <!--         src="https://github.com/BarisGc/Images/blob/main/svg/linkedin-svgrepo-com.svg">  -->
-    <!--       <a href="https://www.hackerrank.com/BarisGc" title="HackerRank Profile"><img width="22" src="https://github.com/BarisGc/Images/blob/main/png/240px-HackerRank_Icon-1000px.png"> HackerRank </a> -->
-
-  <p align="center">
-    Hi, I'm Barış Devrim, Industrial Engineer (+ MBA; Non-Thesis), working as Frontend Developer, from Turkey
-    <br>
-    :mag:I graduated from Yeditepe University (BSc.) & Isik University (MBA)
-    <br>
-    👀 interested in learning🌱 and working💻 on Angular
-    <br>
-    <!---🌱 I’m currently learning or developing on React.js (React-Redux etc.) & Angular (Rxjs, Ngrx Etc.) & Vue.js & Node.js (Express.js etc.) & DB (MongoDB NoSQL)
-    --->
-<!--     <br>
-    :trophy:<b>Certificates:</b>
-    <br>
-    <code>
-    <a href="https://app.patika.dev/certificates/fxLuQ9k" title="Intermediate Level Frontend Web Development Path Certificate By patika.dev">Intermediate Level Frontend Web Development Path Certificate By patika.dev</a>
-    </code>
-    <br>
-    <code>
-    <a href="https://app.patika.dev/certificates/fxLH9mb" title="Starter Level Frontend Web Development Path Certificate By patika.dev">Starter Level Frontend Web Development Path Certificate By patika.dev</a>
-    </code>
-    <br>
-    <code>
-    <a href="https://app.patika.dev/certificates/fxLmc8P" title="Bootcamp Accelerator Program - Javascript Certificate By patika.dev">Bootcamp Accelerator Program - Javascript Certificate By patika.dev</a>
-  </code>
-  <br>
-  <code>
-    <a href="https://drive.google.com/file/d/1sLa90Eutc0b_Tfr9gXc44E9xNvseI3xO/view?usp=sharing" title="Front-End Developer Certificate By Ismek">Front-End Developer Certificate By Ismek</a>
-    </code>
-    <br>
-    <code>
-    <a href="https://drive.google.com/file/d/17mny1ttUJfbhjmq2ZAcyT0LwSVX9ryGE/view?usp=sharing" title="Basic Web Design & Photoshop Certificate By Ismek">Basic Web Design & Photoshop Certificate By Ismek</a>
-    </code>
-    <br>
-    📚 My Roadmap: <a href="https://roadmap.sh/frontend" title="roadmap.sh/frontend">Frontend</a> & <a href="https://roadmap.sh/angular" title="roadmap.sh/angular">Angular</a> </code> -->
-    <!---
-    , and also now, I’m currently progressing in the
-    <br>
-    :chart_with_upwards_trend:<b>Paths / Courses / Bootcamps:</b>
-    <br>
-    <code>
-    <a href="https://www.youtube.com/watch?v=SAIBu6YvErE&list=PL_f2F0Oyaj48Y0Uv4BTlqzK7INi92D2wp" title="Vue3 Bootcamp by Gökhan Kandemir">Vue3 Bootcamp by Gökhan Kandemir
+  <a href="https://www.linkedin.com/in/barisdevrim">
+    <img src="https://img.shields.io/badge/LinkedIn-barisdevrim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  </code>
-  <br>
-    <code>
-    <a href="https://app.patika.dev/paths/ileri-seviye-frontend-web-development-patikasi-" title="ileri-seviye-frontend-web-development-patikasi">ileri-seviye-frontend-web-development-patikasi (patika.dev)
-  </a>
-  </code>
-    <br>
-    <code>
-    <a href="https://app.patika.dev/paths/nodejs-ile-backend-patikasi" title="nodejs-ile-backend-patikasi">nodejs-ile-backend-patikasi (patika.dev)
-  </a><i>(unreached milestones yet: GraphQL &
-      a few of Node.js final projects)</i>
-</code>
-    <br>
-    <!--     <b>Single Courses: this section may be added in the future...</b> -->
-<!--     <br>
-    💬 Ask me anything about from <a href="https://github.com/BarisGc/BarisGc/issues" title="Issues">Here</a> -->
-    <br>
-    📫 How to reach me: <a href="mailto: baris.devrim1@gmail.com">baris.devrim1@gmail.com</a>
-  </p>
+</p>
 
-   <!-- <hr> 
-  <h2 align="center">
-   <center>:electric_plug:</center> Languages & Frameworks & Tools & Abilities :electric_plug:
-  </h2>
-  <br>
-  <p align="center"> -->
+---
 
-
-<!-- 1. <b><i>Professional Projects; ERP Software (CRM Module Included):</i></b>
-* Angular
-* DevExpress (DevExtreme Angular Components, Responsible for Integration)
-* Bootstrap, PrimeNG
-* Compodoc & Docusaurus (Responsible for Integration)
-* Semantic Versioning with Semantic-Release & Conventional Commits (Responsible for Integration)
-* Jira, YouTrack
-
-2. <b><i>Self-Taught Projects:</i></b>
-* Ngrx
-* Nest.js + Prisma + PostgreSQL
-* React (Hooks, Context API, Fetch etc.), React-Redux (Redux Toolkit, Redux-Persist etc.), React-Router, React-Bootstrap, Chakra-UI, Formik, Yup, Axios
-* Node.js, Express, Ejs, MongoDB, Mongoose, PostgreSQL -->
-    
-<!--      <code><img title="HTML" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/html-1.svg"></code>
-    <code><img title="CSS" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/css-3.svg"></code>
-    <code><img title="Bootstrap" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/bootstrap-5-1.svg"></code>
-    <code><img title="Javascript" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/logo-javascript.svg"></code>
-    <code><img title="React" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/react-1.svg"></code>
-    <code><img title="Redux" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/redux.svg"></code>
-    <code><img title="Node.js" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/nodejs-1.svg"></code>
-    <code><img title="Express.js" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/express-109.svg"></code>
-    <code><img title="EJS" height="25" src="https://github.com/BarisGc/Images/blob/main/png/ejs.png"></code>
-    <code><img title="MongoDB" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/mongodb-icon-1.svg"></code>
-    <code><img title="Mongoose" height="25" src="https://github.com/BarisGc/Images/blob/main/jpeg/mongoose.jpeg"></code>
-    <code><img title="PostgreSQL" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/postgresql.svg"></code>
-    <code><img title="Postman" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/postman.svg"></code>
-    <code><img title="Apollo GrapQL" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/apollo-graphql-1.svg"></code> -->
-<!--       <code><img title="Redis" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/redis.svg"></code> -->
-<!--   <code><img title="Docker" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/docker.svg"></code> -->
-<!--     <code><img title="Heroku" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/heroku-4.svg"></code>
-    <code><img title="Netlify" height="25" src="https://github.com/BarisGc/Images/blob/main/svg/netlify.svg"></code> -->
- <!-- </p>
-  <hr>
-
-  <h2 align="center">⚡ Stats ⚡</h2>
-  <p align=center>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=barisgc&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda,html,css,Shell,scss&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  </p>
-
-  <hr>
-
-  <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-  <br>
-  <div align="center">
-    <h3 align="center">:round_pushpin: My MERN-Stack Projects :round_pushpin:</h3>
-    <a href="https://github.com/BarisGc/SmartEdu-Education-Portal"
-      title="https://github.com/BarisGc/SmartEdu-Education-Portal"><img width="300" height="125"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=SmartEdu-Education-Portal&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a href="https://github.com/BarisGc/xCompany1-Internship-Coding-Task" title="xCompany1-Internship-Coding-Task"><img
-        width="300" height="125"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=xCompany1-Internship-Coding-Task&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-    <a href="https://github.com/BarisGc/todo-app-react-redux-express" title="todo-app-react-redux-express"><img
-        width="300" height="125"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=todo-app-react-redux-express&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  </div>
-  <h3 align="center">:round_pushpin: My Best Frontend Projects :round_pushpin:</h3>
-  <div align="center">
-    <a href="https://github.com/BarisGc/company2_technical_interview_case_study" title="company2_technical_interview_case_study"><img width="300" height="125"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=company2_technical_interview_case_study&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-    <a href="https://github.com/BarisGc/typing-speed-app" title="typing-speed-app"><img width="300" height="125"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=typing-speed-app&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-    <a href="https://github.com/BarisGc/weather-app-v2" title="weather-app-v2"><img width="300" height="125"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=weather-app-v2&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-    </div>
-  <div align="center">
-    <a href="https://github.com/BarisGc/notes-app" title="Notes-App"><img width="300" height="125"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=notes-app&theme=react&border_color=61dafb&border_radius=10"></a>
-    <a href="https://github.com/BarisGc/spend-money-app" title="Spend-Money-App"><img width="300" height="125"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=spend-money-app&theme=react&border_color=61dafb&border_radius=10"></a>
-    <a href="https://github.com/BarisGc/cat-api-app" title="Cat-Api-App"><img width="300" height="125"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=cat-api-app&theme=react&border_color=61dafb&border_radius=10"></a>
-  </div>
-  <div align="center">
-    <a href="https://github.com/BarisGc/memory-game" title="Memory-Game"><img width="300" height="125"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=memory-game&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a href="https://github.com/BarisGc/text-generator-app" title="Text-Generator-App"><img width="300" height="125"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=text-generator-app&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/BarisGc/TodoList_VanillaJS" title="TodoList_VanillaJS"><img width="300" height="125"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=TodoList_VanillaJS&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a href="https://github.com/BarisGc/covid-19-tracker" title="covid-19-tracker"><img width="300" height="125"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=covid-19-tracker&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-      </div>
-  <div align="center">
-    <h3 align="center">:round_pushpin: Clones :round_pushpin:</h3>
-    <a href="https://github.com/BarisGc/Bootstrap_Medium_Clone" title="Index Page Of medium.com(Mobile Responsive)"><img
-        width="300" height="125"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=Bootstrap_Medium_Clone&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/BarisGc/Bootstrap_Udemy_Clone" title="Udemy Homepage"><img width="300"
-        height="125"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=Bootstrap_Udemy_Clone&theme=react&border_color=61dafb&border_radius=10"></a>
-    <a href="https://github.com/BarisGc/Bootstrap_Linkedin_Clone" title="Linkedin Homepage"><img width="300"
-        height="125"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=Bootstrap_Linkedin_Clone&theme=react&border_color=61dafb&border_radius=10"></a>
-    <a href="https://github.com/BarisGc/Bootstrap_Instagram_Clone" title="Instagram Homepage"><img width="300"
-        height="125"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=barisgc&repo=Bootstrap_Instagram_Clone&theme=react&border_color=61dafb&border_radius=10"></a>
-  </div>
-  </div>
-  <h4 align="center">
-    <a href="https://github.com/BarisGc?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-  </h4>
---->
-  <!--
-
-  Here are some ideas to get you started:
-
-  - 🔭 I’m currently working on ...
-  - 🌱 I’m currently learning ...
-  - 👯 I’m looking to collaborate on ...
-  - 🤔 I’m looking for help with ...
-  - 💬 Ask me about ...
-  - 📫 How to reach me: ...
-  - 😄 Pronouns: ...
-  - ⚡ Fun fact: ...
-
-
-  Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
-
-  ![Metrics](https://metrics.lecoq.io/ramazansancar?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
-
-  -->
+⭐ **Fun Fact:** I started my career as an ERP Key User/Business Analyst before transitioning to software development. This background gives me a unique perspective on understanding business requirements and translating them into technical solutions!
