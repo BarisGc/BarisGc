@@ -13,10 +13,8 @@ I'm a **Frontend Software Developer** from Turkey with a passion for building pe
 
 ### 📚 Education
 
-- **Industrial and Systems Engineering** - Yeditepe University (BSc.)
+- **Industrial and Systems Engineering** - Yeditepe University (BSc.) Horizontal Transition from **Computer Engineering** :facepalm:
 - **MBA (Non-Thesis)** - Işık University
-- **Computer Engineering** - Horizontal Transition at Yeditepe University
-
 ---
 
 ## 🛠️ Tech Stack
@@ -147,13 +145,4 @@ I'm always open to discussing new opportunities, interesting projects, or just h
 
 ---
 
-⭐ **Fun Fact:** I started my career as an ERP **Planning Engineer** / Key User / Business Analyst before transitioning to software development. This background gives me a unique perspective on understanding business requirements and translating them into technical solutions!
-</content>
-<task_progress>
-- [x] Check image for GitHub stats error (no visual error, might be caching issue)
-- [x] Remove "modern" word from README (changed to "Advanced")
-- [x] Add "Planning Engineer" to Fun Fact section
-- [ ] Push updated README to GitHub
-- [ ] Modify commit script for Freelancer repo (Sep-Dec 2021)
-</task_progress>
-</write_to_file>
+⭐ **Fun Fact:** I started my career as an Planning Engineer / ERP Key User / Kinda Business Analyst before transitioning to software development. This background gives me a unique perspective on understanding business requirements and translating them into technical solutions!
