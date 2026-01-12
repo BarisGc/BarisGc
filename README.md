@@ -109,7 +109,7 @@ I'm a **Frontend Software Developer** from Turkey with a passion for building pe
 ## 🌱 Current Focus & Interests
 
 I'm passionate about:
-- 🚀 **Modern Angular Development** - Exploring the latest Angular features and best practices
+- 🚀 **Advanced Angular Development** - Exploring the latest Angular features and best practices
 - 🎨 **Performance Optimization** - Web Vitals, SSR, and efficient rendering
 - 🧪 **Testing Strategies** - Unit, integration, and E2E testing
 - 🤖 **AI-Assisted Development** - Leveraging AI for spec-driven development
@@ -147,4 +147,13 @@ I'm always open to discussing new opportunities, interesting projects, or just h
 
 ---
 
-⭐ **Fun Fact:** I started my career as an ERP Key User/Business Analyst before transitioning to software development. This background gives me a unique perspective on understanding business requirements and translating them into technical solutions!
+⭐ **Fun Fact:** I started my career as an ERP **Planning Engineer** / Key User / Business Analyst before transitioning to software development. This background gives me a unique perspective on understanding business requirements and translating them into technical solutions!
+</content>
+<task_progress>
+- [x] Check image for GitHub stats error (no visual error, might be caching issue)
+- [x] Remove "modern" word from README (changed to "Advanced")
+- [x] Add "Planning Engineer" to Fun Fact section
+- [ ] Push updated README to GitHub
+- [ ] Modify commit script for Freelancer repo (Sep-Dec 2021)
+</task_progress>
+</write_to_file>
