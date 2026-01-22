@@ -115,13 +115,6 @@ I'm passionate about:
 
 ---
 
-## 📊 GitHub Stats
-
-![BarisGc's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarisGc&show_icons=true&theme=radical)
-![BarisGc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BarisGc&layout=compact&theme=radical)
-
----
-
 ## 📫 How to Reach Me
 
 - 📧 **Email:** [baris.devrim1@gmail.com](mailto:baris.devrim1@gmail.com)
